@@ -14,14 +14,23 @@ I haven't decided which field to enter, but I'm looking for various fields. For 
 ---
 
 #### Education
-KAIST,M.S.,[Graduate school of MECH](https://me.kaist.ac.kr/main/main.html),Mar 2022(Expeected)-
+KAIST, M.S., [Graduate school of MECH](https://me.kaist.ac.kr/main/main.html), Mar 2022(Expected) -
 
-HANYANG University,B.S.,[Mechanical Engineering](http://me.hanyang.ac.kr/),Mar 2018-Present
-
-[Education](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+HANYANG University, B.S., [Mechanical Engineering](http://me.hanyang.ac.kr/), Mar 2018 - Present
 
 ---
+
+#### Awards and Work Experience
+Hnayang academic best award, Mar 2021(Expected)
+National science and engineering scholarship, Aug 2020
+Fourth industrial revolution program Completion, Jun 2020
+Hanyang academic excellence award, Mar 2019
+Samsung dream class Math-tutor program Completion, Jan 2019
+Hanyang abroad student tutoring Dynamics-tutor program Completion, Jul 2020
+Hanyang abroad student tutoring Mechanics of Materials-tutor program Completion, Mar 2021(Expected)
+Hanyang abroad student tutoring Thermodynamics-tutor program Completion, Mar 2021(Expected)
+
+
 [Awards](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
