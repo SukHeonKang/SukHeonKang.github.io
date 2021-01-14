@@ -53,7 +53,17 @@ I also like to collect shoes!
 come visit my [Shoes Instagram](https://www.instagram.com/honey__ksh/)
 
 My energy comes from meeting new people and having new experiences.
+
 ---
+
+#### Contact
+SukHeon Kang
+ksh8048(at)hanyang.ac.kr
+4th year, B.S.
+HANYANG UNIV
+Seoul, Republic of Korea
+
+(Last Update: 1/15/2021)
 
 ### Category Name 2
 
