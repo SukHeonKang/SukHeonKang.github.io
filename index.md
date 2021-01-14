@@ -58,24 +58,14 @@ My energy comes from meeting new people and having new experiences.
 
 #### Contact
 SukHeon Kang
-ksh8048(at)hanyang.ac.kr
+<br>
+ksh8048(at)hanyang.ac.kr or tjrgjs8048(at)naver.com
+<br>
 4th year, B.S.
+<br>
 HANYANG UNIV
+<br>
 Seoul, Republic of Korea
 
 (Last Update: 1/15/2021)
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
