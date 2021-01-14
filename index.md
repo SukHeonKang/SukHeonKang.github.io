@@ -44,13 +44,15 @@ Hanyang abroad student tutoring Thermodynamics-tutor program Completion, Mar 202
 ---
 
 #### Personal
-I like to sing in choir
-<br>
-I'm in charge of the bass part of my choir club
+I like to sing in choir. so I'm in charge of the bass part of my university choir club GLEE!
 <br>
 come visit [GLEE](https://www.youtube.com/channel/UCd3RBgdgh2xeIMHPRJBOFDw) Choir Club!
 
+I also like to collect shoes!
+<br>
+come visit my [Shoes Instagram](https://www.instagram.com/honey__ksh/)
 
+My energy comes from meeting new people and having new experiences.
 ---
 
 ### Category Name 2
