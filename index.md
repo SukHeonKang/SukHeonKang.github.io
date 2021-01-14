@@ -22,12 +22,19 @@ HANYANG University, B.S., [Mechanical Engineering](http://me.hanyang.ac.kr/), Ma
 
 #### Awards and Work Experience
 Hnayang academic best award, Mar 2021(Expected)
+
 National science and engineering scholarship, Aug 2020
+
 Fourth industrial revolution program Completion, Jun 2020
+
 Hanyang academic excellence award, Mar 2019
+
 Samsung dream class Math-tutor program Completion, Jan 2019
+
 Hanyang abroad student tutoring Dynamics-tutor program Completion, Jul 2020
+
 Hanyang abroad student tutoring Mechanics of Materials-tutor program Completion, Mar 2021(Expected)
+
 Hanyang abroad student tutoring Thermodynamics-tutor program Completion, Mar 2021(Expected)
 
 
