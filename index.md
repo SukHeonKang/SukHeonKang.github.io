@@ -48,7 +48,7 @@ I also like to collect shoes!
 <br>
 come visit my [Shoes Instagram](https://www.instagram.com/honey__ksh/)
 
-My energy comes from meeting new people and having new experiences.
+My energy comes from meeting new people and having new experiences!!
 
 ---
 
