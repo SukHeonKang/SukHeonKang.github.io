@@ -37,10 +37,6 @@ Hanyang abroad student tutoring Mechanics of Materials-tutor program Completion,
 
 Hanyang abroad student tutoring Thermodynamics-tutor program Completion, Mar 2021(Expected)
 
-
-[Awards](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 
 #### Personal
