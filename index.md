@@ -1,4 +1,4 @@
-## Hello, I am SukHeon Kang
+## Hello! I am SukHeon Kang
 
 ---
 
@@ -12,6 +12,12 @@ I haven't decided which field to enter, but I'm looking for various fields. For 
 <img src="images/ksh11.jpg"/>
 
 ---
+
+#### Education
+KAIST,M.S.,[Graduate school of MECH](https://me.kaist.ac.kr/main/main.html),Mar 2022(Expeected)-
+
+HANYANG University,B.S.,[Mechanical Engineering](http://me.hanyang.ac.kr/),Mar 2018-Present
+
 [Education](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
