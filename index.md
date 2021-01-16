@@ -18,9 +18,9 @@ KAIST, M.S., [Graduate school of MECH](https://me.kaist.ac.kr/main/main.html), M
 
 HANYANG University, B.S., [Mechanical Engineering](http://me.hanyang.ac.kr/), Mar 2018 - Present
 
-|<span style="color:rgb(38, 124, 185)">GPA</span>|<span style="color:rgb(38, 124, 185)">Rank</span>|<span style="color:rgb(38, 124, 185)">Score</span>|
-|----|----|----|
-|4.3|3/215|97.7|
+||<span style="color:rgb(38, 124, 185)">GPA</span>|<span style="color:rgb(38, 124, 185)">Rank</span>|<span style="color:rgb(38, 124, 185)">Score</span>|
+|----|----|----|----|
+|Cumulative|4.3|3/215|97.7|
 
 ---
 
