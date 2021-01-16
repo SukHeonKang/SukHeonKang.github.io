@@ -18,6 +18,10 @@ KAIST, M.S., [Graduate school of MECH](https://me.kaist.ac.kr/main/main.html), M
 
 HANYANG University, B.S., [Mechanical Engineering](http://me.hanyang.ac.kr/), Mar 2018 - Present
 
+|GPA|Rank|Score|
+|----|----|----|
+|4.3|3/215|97.7|
+
 ---
 
 #### Awards and Experiences
