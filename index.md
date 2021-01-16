@@ -21,7 +21,7 @@ HANYANG University, B.S., [Mechanical Engineering](http://me.hanyang.ac.kr/), Ma
 ---
 
 #### Awards and Experiences
-Hnayang academic best award, Mar 2021(Expected)
+Hanyang academic best award, Mar 2021(Expected)
 
 National science and engineering scholarship, Aug 2020
 
