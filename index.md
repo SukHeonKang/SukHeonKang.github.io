@@ -70,7 +70,6 @@ Seoul, Republic of Korea
 ---
 
 #### Contact easily through below!
-
 Everything is welcome:)
 <br>
 <input type="text" name="name" placeholder="성함을 입력해주세요">
