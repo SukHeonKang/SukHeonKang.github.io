@@ -67,9 +67,12 @@ HANYANG UNIV
 <br>
 Seoul, Republic of Korea
 
-#### Contact me easily through below!
+---
+
+#### Contact easily through below!
 
 Everything is welcome:)
+<br>
 <input type="text" name="name" placeholder="성함을 입력해주세요">
 <br>
 <input type="text" name="email" placeholder="메일 주소를 입력해주세요">
