@@ -67,5 +67,43 @@ HANYANG UNIV
 <br>
 Seoul, Republic of Korea
 
+<input type="text" name="name" placeholder="성함을 입력해주세요">
+<input type="text" name="email" placeholder="메일 주소를 입력해주세요">
+<input type="text" name="phone" placeholder="연락처를 입력해주세요 (생략 가능)">
+<textarea name="message" rows="5" placeholder="내용을 입력해주세요 "></textarea>
+<input type="button" name="submit" class="btn white" value="메일보내기"/>
+
+ <script type="text/javascript">
+	
+	$(document).ready(function() {
+		emailjs.init("user_W8k3o3ocIJ3fuVK8YTRFe");		
+        //"user_xxxxx"이 부분은 사용자마다 다르니 반드시 emailJS의 installation 화면을 확인
+        $('input[name=submit]').click(function(){       	 
+          
+          var templateParams = {	
+          //각 요소는 emailJS에서 설정한 템플릿과 동일한 명으로 작성!
+                name: $('input[name=name]').val(),
+                phone: $('input[name=phone]').val(), 
+                email : $('input[name=email]').val(),
+                message : $('textarea[name=message]').val()
+           				};
+                    
+                	
+         emailjs.send('gmail', 'template_boq49uk', templateParams)
+         //emailjs.send('service ID', 'template ID', 보낼 내용이 담긴 객체)
+         	    .then(function(response) {
+         	       console.log('SUCCESS!', response.status, response.text);
+         	    }, function(error) {
+         	       console.log('FAILED...', error);
+         	    });
+         	       
+
+
+        });
+        
+	  });
+    
+
+	</script>
 (Last Update: 1/15/2021)
 
