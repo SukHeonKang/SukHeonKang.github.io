@@ -80,13 +80,7 @@ Everything is welcome:)
 <br>
 <textarea name="message" rows="5" placeholder="Enter the contents"></textarea>
 <br>
-<input type="button" name="submit" value="Send"/>
-<style>
-	.buttons{
-		background: color:rgb(38, 124, 185);
-		color: white;
-	}
-</style>
+<input type="button" name="submit" value="Send" style= "color:white; background: rgb(38, 124, 185)"/>
 
 <script type= "text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js">
 </script>
