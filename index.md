@@ -72,9 +72,9 @@ Seoul, Republic of Korea
 #### Contact easily through below!
 Everything is welcome:)
 <br>
+input[type=text]
+{color:rgb(38, 124, 185);}
 <input type="text" name="name" placeholder="성함을 입력해주세요">
-<style> input {border: 1px solid color:rgb(38, 124, 185);}
-</style>style>
 <br>
 <input type="text" name="email" placeholder="메일 주소를 입력해주세요">
 <br>
