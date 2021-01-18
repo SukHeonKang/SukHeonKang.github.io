@@ -72,7 +72,7 @@ Seoul, Republic of Korea
 #### Contact easily through below!
 Everything is welcome:)
 <br>
-<input type="text" name="name" placeholder="Enter your name">
+<input type="text" name="name" placeholder="Enter your name" style="width:200px">
 <br>
 <input type="text" name="email" placeholder="Enter your email address">
 <br>
