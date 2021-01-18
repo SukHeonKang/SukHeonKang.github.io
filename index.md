@@ -97,7 +97,7 @@ Everything is welcome:)
            				};
                     
                 	
-         emailjs.sendForm('service_fkb07ju', 'template_boq49uk', templateParams)
+         emailjs.sendForm('service_sr7iwuc', 'template_0r0a8mh', templateParams)
          	    .then(function(response) {
          	       console.log('SUCCESS!', response.status, response.text);
          	    }, function(error) {
