@@ -74,11 +74,11 @@ Everything is welcome:)
 <br>
 <input type="text" name="name" placeholder="Enter your name" style="width:100%">
 <br>
-<input type="text" name="email" placeholder="Enter your email address" style="width:450px">
+<input type="text" name="email" placeholder="Enter your email address" style="width:100%">
 <br>
-<input type="text" name="phone" placeholder="Enter your phone number" style="width:450px">
+<input type="text" name="phone" placeholder="Enter your phone number" style="width:100%">
 <br>
-<textarea name="message" rows="5" placeholder="Enter the contents"></textarea>
+<textarea name="message" rows="5" placeholder="Enter the contents" style="width:100%"></textarea>
 <br>
 <input type="button" name="submit" value="Send" style= "color:white; background: rgb(38, 124, 185)" display="outline-block"/>
 
