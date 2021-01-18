@@ -72,15 +72,15 @@ Seoul, Republic of Korea
 #### Contact easily through below!
 Everything is welcome:)
 <br>
-<input type="text" name="name" placeholder="성함을 입력해주세요">
+<input type="text" name="name" placeholder="Enter your name">
 <br>
-<input type="text" name="email" placeholder="메일 주소를 입력해주세요">
+<input type="text" name="email" placeholder="Enter your email address">
 <br>
-<input type="text" name="phone" placeholder="연락처를 입력해주세요 (생략 가능)">
+<input type="text" name="phone" placeholder="Enter your phone number">
 <br>
-<textarea name="message" rows="5" placeholder="내용을 입력해주세요 "></textarea>
+<textarea name="message" rows="5" placeholder="Enter the contents"></textarea>
 <br>
-<input type="button" name="submit" class="btn white" value="메일보내기"/>
+<input type="button" name="submit" class="btn white" value="Send"/>
 
 <script type= "text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js">
 </script>
