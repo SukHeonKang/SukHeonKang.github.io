@@ -97,7 +97,7 @@ Everything is welcome:)
            				};
                     
                 	
-         emailjs.send('gmail', 'template_boq49uk', templateParams)
+         emailjs.send('service_fkb07ju', 'template_boq49uk', templateParams)
          	    .then(function(response) {
          	       console.log('SUCCESS!', response.status, response.text);
          	    }, function(error) {
