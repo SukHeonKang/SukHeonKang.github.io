@@ -67,10 +67,16 @@ HANYANG UNIV
 <br>
 Seoul, Republic of Korea
 
+####Contact me easily through below!
+Everything is welcome:)
 <input type="text" name="name" placeholder="성함을 입력해주세요">
+<br>
 <input type="text" name="email" placeholder="메일 주소를 입력해주세요">
+<br>
 <input type="text" name="phone" placeholder="연락처를 입력해주세요 (생략 가능)">
+<br>
 <textarea name="message" rows="5" placeholder="내용을 입력해주세요 "></textarea>
+<br>
 <input type="button" name="submit" class="btn white" value="메일보내기"/>
 
  <script type="text/javascript">
