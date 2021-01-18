@@ -82,8 +82,9 @@ Everything is welcome:)
 <br>
 <input type="button" name="submit" class="btn white" value="메일보내기"/>
 
-<scripttype="text/javascript"src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js"></script>
- <script type="text/javascript">
+<scripttype="text/javascript"src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js">
+</script>
+<script type="text/javascript">
 	
 	$(document).ready(function() {
 		emailjs.init("user_W8k3o3ocIJ3fuVK8YTRFe");		
