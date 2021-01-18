@@ -82,7 +82,7 @@ Everything is welcome:)
 <br>
 <input type="button" name="submit" class="btn white" value="Send"/>
 <style>
-	.button{
+	.buttons{
 		background: color:rgb(38, 124, 185);
 		color: white;
 	}
