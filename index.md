@@ -72,8 +72,6 @@ Seoul, Republic of Korea
 #### Contact easily through below!
 Everything is welcome:)
 <br>
-input[type=text]
-{color:rgb(38, 124, 185);}
 <input type="text" name="name" placeholder="성함을 입력해주세요">
 <br>
 <input type="text" name="email" placeholder="메일 주소를 입력해주세요">
@@ -88,11 +86,10 @@ input[type=text]
 	
 	$(document).ready(function() {
 		emailjs.init("user_W8k3o3ocIJ3fuVK8YTRFe");		
-        //"user_xxxxx"이 부분은 사용자마다 다르니 반드시 emailJS의 installation 화면을 확인
+        
         $('input[name=submit]').click(function(){       	 
           
           var templateParams = {	
-          //각 요소는 emailJS에서 설정한 템플릿과 동일한 명으로 작성!
                 name: $('input[name=name]').val(),
                 phone: $('input[name=phone]').val(), 
                 email : $('input[name=email]').val(),
@@ -101,7 +98,6 @@ input[type=text]
                     
                 	
          emailjs.send('gmail', 'template_boq49uk', templateParams)
-         //emailjs.send('service ID', 'template ID', 보낼 내용이 담긴 객체)
          	    .then(function(response) {
          	       console.log('SUCCESS!', response.status, response.text);
          	    }, function(error) {
