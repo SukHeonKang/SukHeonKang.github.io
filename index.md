@@ -72,11 +72,11 @@ Seoul, Republic of Korea
 #### Contact easily through below!
 Everything is welcome:)
 <br>
-<input type="text" name="name" placeholder="Enter your name" style="width:200px">
+<input type="text" name="name" placeholder="Enter your name" style="width:450px">
 <br>
-<input type="text" name="email" placeholder="Enter your email address">
+<input type="text" name="email" placeholder="Enter your email address" style="width:450px">
 <br>
-<input type="text" name="phone" placeholder="Enter your phone number">
+<input type="text" name="phone" placeholder="Enter your phone number" style="width:450px">
 <br>
 <textarea name="message" rows="5" placeholder="Enter the contents"></textarea>
 <br>
