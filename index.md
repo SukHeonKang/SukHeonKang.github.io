@@ -80,7 +80,7 @@ Everything is welcome:)
 <br>
 <textarea name="message" rows="5" placeholder="Enter the contents"></textarea>
 <br>
-<input type="button" name="submit" class="btn white" value="Send"/>
+<input type="button" name="submit" value="Send"/>
 <style>
 	.buttons{
 		background: color:rgb(38, 124, 185);
