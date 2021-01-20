@@ -113,7 +113,7 @@ Everything is welcome :)
 
         });
         
-	  });
+	  })();
     
 
 	</script>
