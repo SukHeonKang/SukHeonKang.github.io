@@ -88,22 +88,22 @@ Everything is welcome :)
 	$(document).ready(function() {
 		emailjs.init("user_W8k3o3ocIJ3fuVK8YTRFe");		
         
-        $('input[name=submit]').click(function(){       	 
+    $('input[name=submit]').click(function(){       	 
           
-          var templateParams = {	
-                name: $('input[name=name]').val(),
-                phone: $('input[name=phone]').val(), 
-                email : $('input[name=email]').val(),
-                message : $('textarea[name=message]').val()
+        var templateParams = {	
+             name: $('input[name=name]').val(),
+            phone: $('input[name=phone]').val(), 
+            email : $('input[name=email]').val(),
+            message : $('textarea[name=message]').val()
            				};
                     
                 	
          emailjs.send('service_sr7iwuc', 'template_0r0a8mh', templateParams)
-         	    .then(function(response) {
-         	       console.log('SUCCESS!', response.status, response.text);
-         	    }, function(error) {
+         	.then(function(response) {
+         	  console.log('SUCCESS!', response.status, response.text);
+         	}, function(error) {
          	       console.log('FAILED...', error);
-         	    });
+         	});
          	       
 
 
