@@ -88,7 +88,8 @@ Everything is welcome :)
 </script>
 
 <script type="text/javascript">
-	
+	import{ init } from 'emailjs-com';
+    init("user_W8k3o3ocIJ3fuVK8YTRFe");
 	$(document).ready(function() {
 		emailjs.init("user_W8k3o3ocIJ3fuVK8YTRFe");		
         
