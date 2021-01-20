@@ -83,6 +83,10 @@ Everything is welcome :)
 <input type="button" name="submit" value="Send" style= "color:white; background:rgb(38, 124, 185); border-radius:5px"/>
 
 
+<script type="text/javascript"
+        src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js">
+</script>
+
 <script type="text/javascript">
 	
 	$(document).ready(function() {
