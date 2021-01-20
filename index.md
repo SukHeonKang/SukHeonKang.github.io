@@ -70,7 +70,7 @@ Seoul, Republic of Korea
 ---
 
 #### Contact easily through below!
-Everything is welcome:)
+Everything is welcome :)
 <br>
 <input type="text" name="name" placeholder="Enter your name" style="width:100%">
 <br>
@@ -83,8 +83,6 @@ Everything is welcome:)
 <input type="button" name="submit" value="Send" style= "color:white; background:rgb(38, 124, 185); border-radius:5px"/>
 
 
-<script type= "text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2/dist/email.min.js">
-</script>
 <script type="text/javascript">
 	
 	$(document).ready(function() {
@@ -100,7 +98,7 @@ Everything is welcome:)
            				};
                     
                 	
-         emailjs.sendForm('service_sr7iwuc', 'template_0r0a8mh', templateParams)
+         emailjs.send('service_sr7iwuc', 'template_0r0a8mh', templateParams)
          	    .then(function(response) {
          	       console.log('SUCCESS!', response.status, response.text);
          	    }, function(error) {
