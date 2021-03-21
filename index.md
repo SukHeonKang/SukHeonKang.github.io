@@ -25,7 +25,7 @@ HANYANG University, B.S., [Mechanical Engineering](http://me.hanyang.ac.kr/), Ma
 ---
 
 #### Awards and Experiences
-Hanyang academic best award, Mar 2021(Expected)
+Hanyang academic best award, Mar 2021
 
 National science and engineering scholarship, Aug 2020
 
@@ -37,14 +37,14 @@ Samsung dream class Math-tutor program Completion, Jan 2019
 
 Hanyang abroad student tutoring Dynamics-tutor program Completion, Jul 2020
 
-Hanyang abroad student tutoring Mechanics of Materials-tutor program Completion, Mar 2021(Expected)
+Hanyang abroad student tutoring Mechanics of Materials-tutor program Completion, Mar 2021
 
-Hanyang abroad student tutoring Thermodynamics-tutor program Completion, Mar 2021(Expected)
+Hanyang abroad student tutoring Thermodynamics-tutor program Completion, Mar 2021
 
 ---
 
 #### Personal
-I like to sing in choir. so I'm in charge of the bass part of my university choir club GLEE!
+I like to sing in choir. so I'm in charge of the vice-captain of my university choir club GLEE!
 <br>
 come visit [GLEE](https://www.youtube.com/channel/UCd3RBgdgh2xeIMHPRJBOFDw) Choir Club!
 
@@ -118,5 +118,5 @@ Everything is welcome :)
     
 
 	</script>
-(Last Update: 1/15/2021)
+(Last Update: 3/21/2021)
 
