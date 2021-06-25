@@ -20,7 +20,7 @@ HANYANG University, B.S., [Mechanical Engineering](http://me.hanyang.ac.kr/), Ma
 
 ||<span style="color:rgb(38, 124, 185)">GPA</span>|<span style="color:rgb(38, 124, 185)">Rank</span>|<span style="color:rgb(38, 124, 185)">Score</span>|
 |----|----|----|----|
-|Cumulative|4.3|3/215|97.7|
+|Cumulative|4.32|3/215|97.7|
 
 ---
 
@@ -118,5 +118,5 @@ Everything is welcome :)
     
 
 	</script>
-(Last Update: 3/21/2021)
+(Last Update: 6/25/2021)
 
