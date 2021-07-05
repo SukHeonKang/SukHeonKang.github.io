@@ -8,7 +8,7 @@
 
 #### Research Interest 
 Now I am studying mechanical engineering.
-I haven't decided which field to enter, but I'm looking for various fields. For now, I am interested in Nano Technology, Artificial Intelligence, Natural Language and Programming.
+I haven't decided which field to enter, but I'm looking for various fields. For now, I am interested in Nanocomposite materials, Thin Films, Artificial Intelligence, Natural Language.
 <img src="images/aabb.gif"/>
 
 ---
@@ -20,7 +20,7 @@ HANYANG University, B.S., [Mechanical Engineering](http://me.hanyang.ac.kr/), Ma
 
 ||<span style="color:rgb(38, 124, 185)">GPA</span>|<span style="color:rgb(38, 124, 185)">Rank</span>|<span style="color:rgb(38, 124, 185)">Score</span>|
 |----|----|----|----|
-|Cumulative|4.32|3/215|97.7|
+|Cumulative|4.32|3/242|97.9|
 
 ---
 
@@ -40,6 +40,8 @@ Hanyang abroad student tutoring Dynamics-tutor program Completion, Jul 2020
 Hanyang abroad student tutoring Mechanics of Materials-tutor program Completion, Mar 2021
 
 Hanyang abroad student tutoring Thermodynamics-tutor program Completion, Mar 2021
+
+Hanyang abroad student tutoring Fluid Mechanics-tutor program Completion, Jun 2021 
 
 ---
 
