@@ -14,7 +14,7 @@ I haven't decided which field to enter, but I'm looking for various fields. For 
 ---
 
 #### Education
-KAIST, M.S., [Graduate school of MECH](https://me.kaist.ac.kr/main/main.html), Mar 2022(Expected) -
+KAIST, M.S., [Graduate school of MECH](https://me.kaist.ac.kr/main/main.html), Mar 2022 -
 
 HANYANG University, B.S., [Mechanical Engineering](http://me.hanyang.ac.kr/), Mar 2018 - Present
 
