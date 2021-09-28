@@ -6,11 +6,13 @@
 
 ---
 
-#### Research Field [LAB](https://sites.google.com/site/seunghwalab/)
+#### Research Field [GO INTO LAB](https://sites.google.com/site/seunghwalab/)
 
-Design of Materials and Structures
-Mechanical Reliability Test of Composites
-Multiscale and Modeling of Material Properties
+✓ Design of Materials and Structures
+
+✓ Mechanical Reliability Test of Composites
+
+✓ Multiscale and Modeling of Material Properties
 
 <img src="images/aabb.gif"/>
 
