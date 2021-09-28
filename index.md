@@ -6,9 +6,12 @@
 
 ---
 
-#### Research Interest 
-Now I am studying mechanical engineering.
-I haven't decided which field to enter, but I'm looking for various fields. For now, I am interested in Nanocomposite materials, Thin Films, Artificial Intelligence, Natural Language.
+#### Research Field [LAB](https://sites.google.com/site/seunghwalab/)
+
+Design of Materials and Structures
+Mechanical Reliability Test of Composites
+Multiscale and Modeling of Material Properties
+
 <img src="images/aabb.gif"/>
 
 ---
@@ -120,5 +123,5 @@ Everything is welcome :)
     
 
 	</script>
-(Last Update: 07/05/2021)
+(Last Update: 09/28/2021)
 
