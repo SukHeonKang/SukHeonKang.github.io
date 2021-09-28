@@ -6,7 +6,7 @@
 
 ---
 
-#### Research Field [[GO INTO LAB](https://sites.google.com/site/seunghwalab/)
+#### Research Field [[GO INTO LAB]](https://sites.google.com/site/seunghwalab/)
 
 ✓ Design of Materials and Structures
 
