@@ -32,7 +32,8 @@ HANYANG University, B.S., [Mechanical Engineering](http://me.hanyang.ac.kr/), Ma
 #### Awards and Experiences
 Hanyang academic best award, Mar 2021
 
-![CV](/PDF/CV_SukHeonKang.pdf)
+[CV](https://github.com/SukHeonKang/SukHeonKang.github.io/files/7357307/CV_SukHeonKang.pdf)
+
 
 National science and engineering scholarship, Aug 2020
 
