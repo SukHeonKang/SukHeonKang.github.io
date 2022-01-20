@@ -19,9 +19,9 @@
 ---
 
 #### Education
-KAIST, M.S., [Graduate school of MECH](https://me.kaist.ac.kr/main/main.html), Mar 2022 -
+KAIST, M.S., [Graduate school of MECH](https://me.kaist.ac.kr/main/main.html), Feb 2022 - Present
 
-HANYANG University, B.S., [Mechanical Engineering](http://me.hanyang.ac.kr/), Mar 2018 - Present
+HANYANG University, B.S., [Mechanical Engineering](http://me.hanyang.ac.kr/), Mar 2018 - Dec 2021
 
 ||<span style="color:rgb(38, 124, 185)">GPA</span>|<span style="color:rgb(38, 124, 185)">Rank</span>|<span style="color:rgb(38, 124, 185)">Score</span>|
 |----|----|----|----|
@@ -64,13 +64,13 @@ come visit my [Shoes Instagram](https://www.instagram.com/honey__ksh/)
 #### Contact
 SukHeon Kang
 <br>
-ksh8048(at)hanyang.ac.kr or tjrgjs8048(at)naver.com
+honey_ksh(at)kaist.ac.kr or tjrgjs8048(at)naver.com
 <br>
-4th year, B.S.
+1st year, M.S.
 <br>
-HANYANG UNIV
+KAIST
 <br>
-Seoul, Republic of Korea
+Daejeon, Republic of Korea
 
 ---
 
