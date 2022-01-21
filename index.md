@@ -125,4 +125,4 @@ Everything is welcome :)
 
 	</script>
 (Last Update: 09/28/2021)
-<img src="images/logo.jpg"/>
+<img src="images/logo.gif"/>
