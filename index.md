@@ -125,4 +125,4 @@ Everything is welcome :)
 
 	</script>
 (Last Update: 09/28/2021)
-<img src="images/Nj.jpg"/>
+<img src="images/kaist.jpg"/>
