@@ -122,7 +122,7 @@ Everything is welcome :)
         
 	  })();
     
-<img src="images/Nj.jpg"/>
+
 	</script>
 (Last Update: 09/28/2021)
-
+<img src="images/Nj.jpg"/>
