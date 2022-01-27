@@ -59,9 +59,6 @@ I also like to collect shoes!
 <br>
 come visit my [Shoes Instagram](https://www.instagram.com/honey__ksh/)
 
-<option value="white">I have a girlfriend Minyoung. She is the most lovely in the world </option>
-<br>
-<option value="white">come visit [My love](https://instagram.com/minong_e_da/)</option>
 
 ---
 
