@@ -53,14 +53,14 @@ Hanyang abroad student tutoring Fluid Mechanics-tutor program Completion, Jun 20
 #### Personal
 I like to sing in choir. so I'm in charge of the vice-captain of my university choir club GLEE!
 <br>
-come visit [GLEE](https://www.youtube.com/channel/UCd3RBgdgh2xeIMHPRJBOFDw) Choir Club!
+Come visit [GLEE](https://www.youtube.com/channel/UCd3RBgdgh2xeIMHPRJBOFDw) Choir Club!
 
 I also like to collect shoes!
 <br>
-come visit my [Shoes Instagram](https://www.instagram.com/honey__ksh/)
+Come visit my [Shoes Instagram](https://www.instagram.com/honey__ksh/)
 
 <font color="white">I have a girlfriend Minyoung. She is the most lovely in the world!  </font>
-#<font color="white">come visit <a href="https://instagram.com/minong_e_da/"><font color="white">My LOVE</font></a></font>
+<font color="white">Come visit <a href="https://instagram.com/minong_e_da/"><font color="white">My LOVE</font></a></font>
 
 ---
 
