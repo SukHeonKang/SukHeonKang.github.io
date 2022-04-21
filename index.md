@@ -14,7 +14,6 @@
 
 ✓ Multiscale and Modeling of Material Properties
 
-img
 <img src="images/SKANG.gif"/ style="object-fit: contain;">
 
 
