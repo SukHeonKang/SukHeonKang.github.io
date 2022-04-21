@@ -14,7 +14,7 @@
 
 ✓ Multiscale and Modeling of Material Properties
 
-<img src="images/aabb.gif"/>
+<img src="images/SKANG.gif"/>
 
 ---
 
