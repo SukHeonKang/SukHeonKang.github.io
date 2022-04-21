@@ -12,6 +12,7 @@
 
 ✓ Mechanical Reliability Test of Composites
 
+
 ✓ Multiscale and Modeling of Material Properties
 
 <img src="images/SKANG.gif"/>
