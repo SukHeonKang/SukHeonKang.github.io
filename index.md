@@ -15,7 +15,7 @@
 ✓ Multiscale and Modeling of Material Properties
 
 <h2>object-fit: contain</h2>
-<img src="images/SKANG.gif"/ class="contain">
+<img class="contain" src="images/SKANG.gif"/>
 
 
 ---
