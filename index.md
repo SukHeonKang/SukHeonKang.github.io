@@ -1,4 +1,4 @@
-## Hello! I am SukHeon Kang
+## Hello! I am Sukheon Kang
 
 ---
 
@@ -67,7 +67,7 @@ Come visit my [Shoes Instagram](https://www.instagram.com/honey__ksh/)
 ---
 
 #### Contact
-SukHeon Kang
+Sukheon Kang
 <br>
 honey_ksh(at)kaist.ac.kr or tjrgjs8048(at)naver.com
 <br>
