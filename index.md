@@ -85,7 +85,7 @@ Sukheon Kang
 <br>
 honey_ksh(at)kaist.ac.kr or tjrgjs8048(at)naver.com
 <br>
-1st year, M.S.
+2st year, M.S.
 <br>
 KAIST
 <br>
