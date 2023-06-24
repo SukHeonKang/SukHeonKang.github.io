@@ -51,6 +51,20 @@ Hanyang abroad student tutoring Fluid Mechanics-tutor program Completion, Jun 20
 
 ---
 
+#### International Conference
+2022, Jinwook Yeo, Sukheon Kang, Minwoo Park and Seunghwa Ryu, "Deep Learning-Based Optimization, 3D printing, and Testing of Adhesive Pillar Shape with Directionality", ENGE 2022
+
+---
+
+#### Domestic Conference
+2023, 강석헌, 문현빈, 여진욱, 박건도, 유제천, 유승화, "Design of auxetic metamaterials for Improved low cycle fatigue life and Poisson's ratio using data-driven optimization", 2023 대한기계학회 CAE 및 응용역학부문 춘계학술대회
+
+2023, 박건도, 이준형, 강석헌, Flavia Libonati, 유승화, "3 channel tensile test for a fast estimation of fatigue strength of composite laminates", 2023 대한기계학회 신뢰성부문 춘계학술대회
+
+2022, 박건도, 김영수, 김민기, 송치현, 강석헌, 박진규, 유승화, "Designing staggered platelet composite structure with Gaussian process regression based Bayesian optimization", 2022 대한기계학회 CAE 및 응용역학부문 춘계학술대회
+
+---
+
 #### Personal
 I like to sing in choir. so I'm in charge of the vice-captain of my university choir club GLEE!
 <br>
