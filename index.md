@@ -20,7 +20,9 @@
 ---
 
 #### Education
-KAIST, M.S., [Graduate school of MECH](https://me.kaist.ac.kr/main/main.html), Feb 2022 - Present
+KAIST, Ph.D., [Graduate school of MECH](https://me.kaist.ac.kr/main/main.html), Feb 2024 - Present
+
+KAIST, M.S., [Graduate school of MECH](https://me.kaist.ac.kr/main/main.html), Feb 2022 - Feb 2024
 
 HANYANG University, B.S., [Mechanical Engineering](http://me.hanyang.ac.kr/), Mar 2018 - Dec 2021
 
