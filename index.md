@@ -53,12 +53,23 @@ Hanyang abroad student tutoring Fluid Mechanics-tutor program Completion, Jun 20
 
 ---
 
+#### International Journal
+2024, Junheui Jo†, Minwoo Park†, Sukheon Kang†, Hugon Lee†, Chang-Yeon Gu, Taek-Soo Kim, Seunghwa Ryu "Data-driven prediction of strain fields in auxetic structures and non-contact validation with Mechanoluminescence for structural health monitoring", IJAMD, accepted.
+
+---
+
 #### International Conference
+2023, Junheui Jo, Songho Lee, Sukheon Kang and Seunghwa Ryu, "Investigation of Digital Light Printing process parameter based experimental data using simulation", ICD3DP 2023
+
 2022, Jinwook Yeo, Sukheon Kang, Minwoo Park and Seunghwa Ryu, "Deep Learning-Based Optimization, 3D printing, and Testing of Adhesive Pillar Shape with Directionality", ENGE 2022
 
 ---
 
 #### Domestic Conference
+2024, 강석헌, 문현빈, 성효경, 유승화, "Data-driven approaches to optimize metastructure design for superior efficiency and performance", 2024 대한기계학회 CAE 및 응용역학부문 춘계학술대회
+
+2023, 강석헌, 유승화, "Data-driven Optimization for Improved Auxetic Metamaterial Designs", 2023 한국멀티스케일역학회 심포지엄
+
 2023, 강석헌, 문현빈, 여진욱, 박건도, 유제천, 유승화, "Design of auxetic metamaterials for Improved low cycle fatigue life and Poisson's ratio using data-driven optimization", 2023 대한기계학회 CAE 및 응용역학부문 춘계학술대회
 
 2023, 박건도, 이준형, 강석헌, Flavia Libonati, 유승화, "3 channel tensile test for a fast estimation of fatigue strength of composite laminates", 2023 대한기계학회 신뢰성부문 춘계학술대회
@@ -145,5 +156,5 @@ Everything is welcome :)
     
 
 	</script>
-(Last Update: 09/28/2021)
+(Last Update: 07/15/2024)
 <img src="images/logo.gif"/>
