@@ -54,7 +54,7 @@ Hanyang abroad student tutoring Fluid Mechanics-tutor program Completion, Jun 20
 ---
 
 #### International Journal
- 2024,Sukheon Kang†, Hyunggwi Song†, Hyun Seok Kang, Byeong-Soo Bae, and Seunghwa Ryu*, "Customizable Metamaterial Design for Desired Strain-Dependent Poisson's Ratio Using Constrained Generative Inverse Design Network", Materials & Design, accepted.
+ 2024, Sukheon Kang†, Hyunggwi Song†, Hyun Seok Kang, Byeong-Soo Bae, and Seunghwa Ryu*, "Customizable Metamaterial Design for Desired Strain-Dependent Poisson's Ratio Using Constrained Generative Inverse Design Network", Materials & Design, accepted.
 
 2024, Junheui Jo†, Minwoo Park†, Sukheon Kang†, Hugon Lee†, Chang-Yeon Gu, Taek-Soo Kim, and Seunghwa Ryu* "Data-driven prediction of strain fields in auxetic structures and non-contact validation with Mechanoluminescence for structural health monitoring", IJAMD [Cover](https://article.accscience.com/uploads/file/20241011/9a82218d808e1354b9bd0f1331947820.jpg), accepted.
 
@@ -68,6 +68,8 @@ Hanyang abroad student tutoring Fluid Mechanics-tutor program Completion, Jun 20
 ---
 
 #### Domestic Conference
+2024, 강석헌, 송형귀, 강현석, 배병수, 유승화, "Inverse Design of Soft Metamaterials for Tunable Poisson's Ratio Based on Strain Response", 2024 대한기계학회 본부학술대회
+
 2024, 강석헌, 문현빈, 성효경, 유승화, "Data-driven approaches to optimize metastructure design for superior efficiency and performance", 2024 대한기계학회 CAE 및 응용역학부문 춘계학술대회
 
 2023, 강석헌, 유승화, "Data-driven Optimization for Improved Auxetic Metamaterial Designs", 2023 한국멀티스케일역학회 심포지엄
