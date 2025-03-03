@@ -54,7 +54,7 @@ Hanyang abroad student tutoring Fluid Mechanics-tutor program Completion, Jun 20
 ---
 
 #### International Journal
- 2025, Sukheon Kang†, Hyeonbin Moon, Seonho Shin, Mahmoud Mousavi, Hyokyung Sung*, and Seunghwa Ryu*, "Design of Auxetic Metamaterial for Enhanced Low Cycle Fatigue Life and Negative Poisson's ratio through Multi-objective Bayesian Optimization", Materials & Design, accepted.
+ 2025, Sukheon Kang, Hyeonbin Moon, Seonho Shin, Mahmoud Mousavi, Hyokyung Sung*, and Seunghwa Ryu*, "Design of Auxetic Metamaterial for Enhanced Low Cycle Fatigue Life and Negative Poisson's ratio through Multi-objective Bayesian Optimization", Materials & Design, accepted.
 
  2024, Sukheon Kang†, Hyunggwi Song†, Hyun Seok Kang, Byeong-Soo Bae, and Seunghwa Ryu*, "Customizable Metamaterial Design for Desired Strain-Dependent Poisson's Ratio Using Constrained Generative Inverse Design Network", Materials & Design, accepted.
 
