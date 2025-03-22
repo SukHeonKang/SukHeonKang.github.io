@@ -58,7 +58,7 @@ Hanyang abroad student tutoring Fluid Mechanics-tutor program Completion, Jun 20
 
  2024, Sukheon Kang†, Hyunggwi Song†, Hyun Seok Kang, Byeong-Soo Bae, and Seunghwa Ryu*, "Customizable Metamaterial Design for Desired Strain-Dependent Poisson's Ratio Using Constrained Generative Inverse Design Network", Materials & Design, accepted. [Link](https://doi.org/10.1016/j.matdes.2024.113377)
 
-2024, Junheui Jo†, Minwoo Park†, Sukheon Kang†, Hugon Lee†, Chang-Yeon Gu, Taek-Soo Kim, and Seunghwa Ryu* "Data-driven prediction of strain fields in auxetic structures and non-contact validation with Mechanoluminescence for structural health monitoring", IJAMD, accepted. [Link](https://doi.org/10.36922/ijamd.3539) [Cover](images/Paper_1_cover.png)
+ 2024, Junheui Jo†, Minwoo Park†, Sukheon Kang†, Hugon Lee†, Chang-Yeon Gu, Taek-Soo Kim, and Seunghwa Ryu* "Data-driven prediction of strain fields in auxetic structures and non-contact validation with Mechanoluminescence for structural health monitoring", IJAMD, accepted. [Link](https://doi.org/10.36922/ijamd.3539) [Cover](images/Paper_1_cover.png)
 ---
 
 #### International Conference
