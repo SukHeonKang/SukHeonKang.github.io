@@ -25,11 +25,13 @@
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
-
+        
+        {% comment %}
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a>
         {% endif %}
         <br><a href="https://github.com/SukHeonKang/SukHeonKang.github.io/files/7357307/CV_SukHeonKang.pdf" >CV</a></p>
+        {% endcomment %}
 
         {% if site.show_downloads %}
         <ul class="downloads">
