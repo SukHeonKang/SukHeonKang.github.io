@@ -8,11 +8,11 @@
 
 #### Research Field [[Go Into LAB]](https://sites.google.com/site/seunghwalab/)
 
-✓ Design of Materials and Structures
+✓ Architected Materials and Mechanical Metamaterials
 
-✓ Mechanical Reliability Test of Composites
+✓ Transformative Morphing Structures
 
-✓ Multiscale and Modeling of Material Properties
+✓ Modeling for Applications in Biomedical, Aerospace, Energy Harvesting, Energy Absorption, etc.
 
 <img class="contain" src="images/SKANG.gif"/>
 
@@ -84,7 +84,4 @@ Hanyang abroad student tutoring Fluid Mechanics-tutor program Completion, Jun 20
 
 ---
 
-#### Personal
-
-(Last Update: 07/15/2024)
 <img src="images/logo.gif"/>
