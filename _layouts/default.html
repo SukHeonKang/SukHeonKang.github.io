@@ -33,6 +33,13 @@
         <br><a href="https://github.com/SukHeonKang/SukHeonKang.github.io/files/7357307/CV_SukHeonKang.pdf" >CV</a></p>
         {% endcomment %}
 
+        {% if site.github.is_user_page %}
+          <p class="view">
+            <a href="https://scholar.google.co.jp/citations?user=1fDBLAMAAAAJ&hl=ko&oi=ao">GoogleScholar</a>
+            <a href="https://www.linkedin.com/in/sukheonkang/">LinkedIn</a>
+          </p>
+        {% endif %}
+
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
