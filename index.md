@@ -56,6 +56,8 @@ Hanyang abroad student tutoring Fluid Mechanics-tutor program Completion, Jun 20
 ---
 
 #### International Journal
+ 2025, Sukheon Kang, Youngkwon Kim, Jinkyu Yang*, and Seunghwa Ryu\*, "Physics-informed neural networks for programmable origami metamaterials with controlled deployment", Materials Horizons, accepted. [Link](https://pubs.rsc.org/en/content/articlelanding/2025/mh/d5mh01607j)
+
  2025, Sukheon Kang, Hyeonbin Moon, Seonho Shin, Mahmoud Mousavi, Hyokyung Sung*, and Seunghwa Ryu\*, "Design of Auxetic Metamaterial for Enhanced Low Cycle Fatigue Life and Negative Poisson's ratio through Multi-objective Bayesian Optimization", Materials & Design, accepted. [Link](https://doi.org/10.1016/j.matdes.2025.113798) [Cover](images/Paper_3_cover.png)
 
  2024, Sukheon Kang†, Hyunggwi Song†, Hyun Seok Kang, Byeong-Soo Bae, and Seunghwa Ryu*, "Customizable Metamaterial Design for Desired Strain-Dependent Poisson's Ratio Using Constrained Generative Inverse Design Network", Materials & Design, accepted. [Link](https://doi.org/10.1016/j.matdes.2024.113377)
