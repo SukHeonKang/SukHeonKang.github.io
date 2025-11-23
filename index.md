@@ -10,7 +10,10 @@
 
 ✓ Architected Materials and Mechanical Metamaterials
 
-<img class="contain" src="images/Field_1.png"/>
+<img class="contain" src="images/Field_1_1.png"/>
+<img class="contain" src="images/Field_1_2.png"/>
+<img class="contain" src="images/Field_1_3.png"/>
+
 
 ✓ Transformative Morphing Structures
 
