@@ -17,9 +17,11 @@
 
 ✓ Transformative Morphing Structures
 
+<img class="contain" src="images/Field_2_1.png"/>
+
 ✓ AI-based Modeling for Applications in Biomedical, Aerospace, Energy Harvesting, Energy Absorption, etc.
 
-<img class="contain" src="images/Field_3.png"/>
+<img class="contain" src="images/Field_3_1.png"/>
 
 
 ---
