@@ -1,7 +1,7 @@
 ## Hello! I am Sukheon Kang
 
-<img class="contain" src="images/Cover_Art_1.png"/>
-<img class="contain" src="images/Cover_Art_2.png"/>
+<img class="contain" src="images/Cover_Art_1.jpg"/>
+<img class="contain" src="images/Cover_Art_2.jpg"/>
 
 ---
 
