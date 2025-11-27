@@ -15,13 +15,16 @@
 
 <img class="contain" src="images/Field_1_1.png"/>
 <img class="contain" src="images/Field_1_2.png"/>
+
 <img class="contain" src="images/Field_1_3.png"/>
 
 
 ✓ Transformative Morphing Structures
 
 <img class="contain" src="images/Field_2_1.png"/>
+
 <img class="contain" src="images/Field_2_2.gif"/>
+
 <img class="contain" src="images/Field_2_3.png"/>
 
 ✓ AI-based Modeling for Applications in Biomedical, Aerospace, Energy Harvesting, Energy Absorption, etc.
