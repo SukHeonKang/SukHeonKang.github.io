@@ -22,7 +22,7 @@
 
 <img class="contain" src="images/Field_2_1.png"/>
 <img class="contain" src="images/Field_2_2.gif"/>
-<img class="contain" src="images/Field_2_3.gif"/>
+<img class="contain" src="images/Field_2_3.png"/>
 
 ✓ AI-based Modeling for Applications in Biomedical, Aerospace, Energy Harvesting, Energy Absorption, etc.
 
