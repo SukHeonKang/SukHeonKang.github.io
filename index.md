@@ -25,6 +25,8 @@
 
 <img class="contain" src="images/Field_2_2.gif"/>
 
+<img class="contain" src="images/Field_2_2_2.gif"/>
+
 <img class="contain" src="images/Field_2_3.png"/>
 
 ✓ AI-based Modeling for Applications in Biomedical, Aerospace, Energy Harvesting, Energy Absorption, etc.
@@ -71,7 +73,7 @@ Hanyang abroad student tutoring Fluid Mechanics-tutor program Completion, Jun 20
 #### International Journal
  2025, Songho Lee†, Sukheon Kang†, Jecheon Yu, and Seunghwa Ryu* "Inverse Design of Temperature-Responsive 4D Active Composites Using Reinforcement Learning", submitted
 
- 2025, Sukheon Kang, Youngkwon Kim, Jinkyu Yang*, and Seunghwa Ryu\*, "Physics-informed neural networks for programmable origami metamaterials with controlled deployment", Materials Horizons, accepted. [Link](https://pubs.rsc.org/en/content/articlelanding/2025/mh/d5mh01607j)
+ 2025, Sukheon Kang, Youngkwon Kim, Jinkyu Yang*, and Seunghwa Ryu\*, "Physics-informed neural networks for programmable origami metamaterials with controlled deployment", Materials Horizons, accepted. [Link](https://pubs.rsc.org/en/content/articlelanding/2025/mh/d5mh01607j) [Cover](images/Paper_4_cover.jpg)
 
  2025, Sukheon Kang, Hyeonbin Moon, Seonho Shin, Mahmoud Mousavi, Hyokyung Sung*, and Seunghwa Ryu\*, "Design of Auxetic Metamaterial for Enhanced Low Cycle Fatigue Life and Negative Poisson's ratio through Multi-objective Bayesian Optimization", Materials & Design, accepted. [Link](https://doi.org/10.1016/j.matdes.2025.113798) [Cover](images/Paper_3_cover.png)
 
