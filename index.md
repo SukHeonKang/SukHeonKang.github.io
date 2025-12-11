@@ -105,16 +105,16 @@ Ministry of Science and ICT (administered by Korea Student Aid Foundation, KOSAF
 
 #### Teaching Experience
 
-- Teaching Assistant
-ME231 Solid Mechanics (Prof. Seunghwa Ryu), KAIST, Feb. 2024 - Jun. 2025
-ME231 Solid Mechanics (Prof. Taek-Soo Kim), KAIST, Feb. 2024 - Jun. 2024
+Teaching Assistant
+- ME231 Solid Mechanics (Prof. Seunghwa Ryu), KAIST, Feb. 2024 - Jun. 2025
+- ME231 Solid Mechanics (Prof. Taek-Soo Kim), KAIST, Feb. 2024 - Jun. 2024
 
-- Mentoring and Tutoring
-Fluid Mechanics Tutor, International Student Tutoring Program, Hanyang University, Mar. 2021 – Jun. 2021
-Thermodynamics Tutor, International Student Tutoring Program, Hanyang University, Jul. 2020 – Dec. 2020
-Mechanics of Materials Tutor, International Student Tutoring Program, Hanyang University, Jul. 2020 – Dec. 2020
-Dynamics Tutor, International Student Tutoring Program, Hanyang University, Apr. 2020 – Jun. 2020
-Math Tutor & Mentor, Samsung Dream Class, Jan. 2019
+Mentoring and Tutoring
+- Fluid Mechanics Tutor, International Student Tutoring Program, Hanyang University, Mar. 2021 – Jun. 2021
+- Thermodynamics Tutor, International Student Tutoring Program, Hanyang University, Jul. 2020 – Dec. 2020
+- Mechanics of Materials Tutor, International Student Tutoring Program, Hanyang University, Jul. 2020 – Dec. 2020
+- Dynamics Tutor, International Student Tutoring Program, Hanyang University, Apr. 2020 – Jun. 2020
+- Math Tutor & Mentor, Samsung Dream Class, Jan. 2019
 
 ---
 
