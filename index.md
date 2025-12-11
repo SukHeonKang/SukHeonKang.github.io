@@ -67,15 +67,16 @@ Ministry of Science and ICT (administered by Korea Student Aid Foundation, KOSAF
 ---
 
 #### International Journal
- 2025, Songho Lee†, Sukheon Kang†, Jecheon Yu, and Seunghwa Ryu* "Inverse Design of Temperature-Responsive 4D Active Composites Using Reinforcement Learning", submitted
 
- 2025, Sukheon Kang, Youngkwon Kim, Jinkyu Yang*, and Seunghwa Ryu\*, "Physics-informed neural networks for programmable origami metamaterials with controlled deployment", Materials Horizons, accepted. [Link](https://pubs.rsc.org/en/content/articlelanding/2025/mh/d5mh01607j) [Cover](images/Paper_4_cover.jpg)
+ Songho Lee†, **Sukheon Kang†**, Jecheon Yu, and Seunghwa Ryu*, "Inverse design of temperature-responsive 4D active composites using reinforcement learning", Submitted.
 
- 2025, Sukheon Kang, Hyeonbin Moon, Seonho Shin, Mahmoud Mousavi, Hyokyung Sung*, and Seunghwa Ryu\*, "Design of Auxetic Metamaterial for Enhanced Low Cycle Fatigue Life and Negative Poisson's ratio through Multi-objective Bayesian Optimization", Materials & Design, accepted. [Link](https://doi.org/10.1016/j.matdes.2025.113798) [Cover](images/Paper_3_cover.png)
+ **Sukheon Kang**, Youngkwon Kim, Jinkyu Yang*, and Seunghwa Ryu*, "Physics-informed neural networks for programmable origami metamaterials with controlled deployment", Materials Horizons, 12, 10641-10655, 2025. [Link](https://pubs.rsc.org/en/content/articlelanding/2025/mh/d5mh01607j) [Cover](images/Paper_4_cover.jpg)
 
- 2024, Sukheon Kang†, Hyunggwi Song†, Hyun Seok Kang, Byeong-Soo Bae, and Seunghwa Ryu*, "Customizable Metamaterial Design for Desired Strain-Dependent Poisson's Ratio Using Constrained Generative Inverse Design Network", Materials & Design, accepted. [Link](https://doi.org/10.1016/j.matdes.2024.113377)
+ **Sukheon Kang**, Hyeonbin Moon, Seonho Shin, Mahmoud Mousavi, Hyokyung Sung*, and Seunghwa Ryu*, "Design of Auxetic Metamaterial for Enhanced Low Cycle Fatigue Life and Negative Poisson's ratio through Multi-objective Bayesian Optimization", Materials & Design, 252, 113798, 2025. [Link](https://doi.org/10.1016/j.matdes.2025.113798) [Cover](images/Paper_3_cover.png)
 
- 2024, Junheui Jo†, Minwoo Park†, Sukheon Kang†, Hugon Lee†, Chang-Yeon Gu, Taek-Soo Kim, and Seunghwa Ryu* "Data-driven prediction of strain fields in auxetic structures and non-contact validation with Mechanoluminescence for structural health monitoring", IJAMD, accepted. [Link](https://doi.org/10.36922/ijamd.3539) [Cover](images/Paper_1_cover.jpg)
+ **Sukheon Kang†**, Hyunggwi Song†, Hyun Seok Kang, Byeong-Soo Bae, and Seunghwa Ryu*, "Customizable Metamaterial Design for Desired Strain-Dependent Poisson's Ratio Using Constrained Generative Inverse Design Network", Materials & Design, 247, 113377, 2024. [Link](https://doi.org/10.1016/j.matdes.2024.113377)
+
+ Junheui Jo†, Minwoo Park†, **Sukheon Kang†**, Hugon Lee†, Chang-Yeon Gu, Taek-Soo Kim, and Seunghwa Ryu* "Data-driven prediction of strain fields in auxetic structures and non-contact validation with Mechanoluminescence for structural health monitoring", International Journal of AI for Materials and Design, 1(2), 48-60, 2024. [Link](https://doi.org/10.36922/ijamd.3539) [Cover](images/Paper_1_cover.jpg)
 
 ---
 
@@ -106,7 +107,7 @@ Ministry of Science and ICT (administered by Korea Student Aid Foundation, KOSAF
 #### Teaching Experience
 
 Teaching Assistant
-- ME231 Solid Mechanics (Prof. Seunghwa Ryu), KAIST, Feb. 2024 - Jun. 2025
+- ME231 Solid Mechanics (Prof. Seunghwa Ryu), KAIST, Feb. 2025 - Jun. 2025
 - ME231 Solid Mechanics (Prof. Taek-Soo Kim), KAIST, Feb. 2024 - Jun. 2024
 
 Mentoring and Tutoring
