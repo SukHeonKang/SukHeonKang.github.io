@@ -80,6 +80,8 @@ Ministry of Science and ICT (administered by Korea Student Aid Foundation, KOSAF
 ---
 
 #### International Conference
+Chanhee An, Wonjin Choi, **Sukheon Kang**, Seunghwa Ryu, Hyun Jin Kim et al., "Incremental Value of CFD: RIsk Prediction of Abdominal Aortic Aneurysm using Fluid-Solid Interaction", The 18th Congress of Asian Society of Cardiovascular Imaging, 2025.
+
 Junheui Jo, Songho Lee, **Sukheon Kang**, and Seunghwa Ryu, "Investigation of Digital Light Printing process parameter based experimental data using simulation", Proceedings of the 2nd International Conference on Design for 3D Printing (ICD3DP), Oct. 2023.
 
 Jinwook Yeo, **Sukheon Kang**, Minwoo Park, and Seunghwa Ryu, "Deep Learning-Based Optimization, 3D printing, and Testing of Adhesive Pillar Shape with Directionality", The 7th International Conference on Electronic Materials and Nanotechnology for Green Environment (ENGE), Nov. 2022.
@@ -88,6 +90,12 @@ Jinwook Yeo, **Sukheon Kang**, Minwoo Park, and Seunghwa Ryu, "Deep Learning-Bas
 
 #### Domestic Conference
 **Sukheon Kang**, Hyunggwi Song, Hyun Seok Kang, Byeong-Soo Bae, and Seunghwa Ryu, "A Constrained Generative Approach for Designing Metamaterials with Targeted Strain-Dependent Poisson’s Ratio", Korea Society of Mechanical Engineers (KSME) CAE and Applied Mechanics Spring Conference, 2025.
+
+Songho Lee, **Sukheon Kang**, Jecheon Yu, Jihye Shin, and Seunghwa Ryu, "4D Thermal Active Composite Design using Reinforcement Learning", Korea Society of Mechanical Engineers (KSME) CAE and Applied Mechanics Spring Conference, 2025.
+
+Chanhee An, Wonjin Choi, **Sukheon Kang**, Seunghwa Ryu, Hyun Jin Kim et al., "Rupture risk assessment of abdominal aortic aneurysms using biomechanical, geometric, and physiological conditions", 2025 Fall Conference of The Korean Society of Visualization (KSV), 2025
+
+Chanhee An, Wonjin Choi, **Sukheon Kang**, Seunghwa Ryu, Hyun Jin Kim et al., "Rupture risk identification of abdominal aortic aneurysms using hemodynamic and biomechanical parameters", Biomedical Engineering Society for Circulation Organization(BESCO), 2025.
 
 **Sukheon Kang**, Hyunggwi Song, Hyun Seok Kang, Byeong-Soo Bae, and Seunghwa Ryu, "Inverse Design of Soft Metamaterials for Tunable Poisson's Ratio Based on Strain Response", Korea Society of Mechanical Engineers (KSME) Headquarters Academic Conference Fall Conference, 2024.
 
