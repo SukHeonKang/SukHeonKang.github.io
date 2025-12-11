@@ -49,7 +49,7 @@ HANYANG University, B.S., [Mechanical Engineering](http://me.hanyang.ac.kr/), Ma
 
 ---
 
-#### Awards and Experiences
+#### Awards, Activities, and Leaderships
 Hanyang academic best award, Mar 2021
 
 National science and engineering scholarship, Aug 2020
@@ -104,6 +104,13 @@ Hanyang abroad student tutoring Fluid Mechanics-tutor program Completion, Jun 20
 2023, Kundo Park, Junhyeong Lee, Sukheon Kang, Flavia Libonati, Seunghwa Ryu, "3 channel tensile test for a fast estimation of fatigue strength of composite laminates", 2023 Korea Society of Mechanical Engineers (KSME) Reliability Engineering Spring Conference
 
 2022, Kundo Park, Youngsoo Kim, Minki Kim, Chihyeon Song, Sukheon Kang, Jinkyoo Park, Seunghwa Ryu, "Designing staggered platelet composite structure with Gaussian process regression based Bayesian optimization", 2022 Korea Society of Mechanical Engineers (KSME) CAE and Applied Mechanics Spring Conference
+
+---
+
+#### Teaching Experience
+**Teaching Assistant**
+ME231 Solid Mechanics (Prof. Seunghwa Ryu) (Feb. 2024 - Jun. 2025) KAIST
+ME231 Solid Mechanics (Prof. Taek-Soo Kim) (Feb. 2024 - Jun. 2024) KAIST
 
 ---
 
