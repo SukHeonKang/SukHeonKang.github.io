@@ -49,24 +49,20 @@ HANYANG University, B.S., [Mechanical Engineering](http://me.hanyang.ac.kr/), Ma
 
 ---
 
-#### Awards, Activities, and Leaderships
-Hanyang academic best award, Mar 2021
+#### Honors and Awards
+Summa Cum Laude, Hanyang University, Feb. 2022
 
-National science and engineering scholarship, Aug 2020
+Hanyang Academic Excellence Award, Hanyang University, Oct. 2021 
 
-Fourth industrial revolution program Completion, Jun 2020
+Hanyang Academic Highest Excellence Award, Hanyang University, Apr. 2021 
 
-Hanyang academic excellence award, Mar 2019
+Hanyang Academic Excellence Award, Hanyang University, Apr. 2019 
 
-Samsung dream class Math-tutor program Completion, Jan 2019
+---
 
-Hanyang abroad student tutoring Dynamics-tutor program Completion, Jul 2020
-
-Hanyang abroad student tutoring Mechanics of Materials-tutor program Completion, Mar 2021
-
-Hanyang abroad student tutoring Thermodynamics-tutor program Completion, Mar 2021
-
-Hanyang abroad student tutoring Fluid Mechanics-tutor program Completion, Jun 2021 
+#### Scholarships
+National Outstanding Scholarship for Science and Engineering,
+Ministry of Science and ICT (administered by Korea Student Aid Foundation, KOSAF), Aug. 2020
 
 ---
 
@@ -108,9 +104,23 @@ Hanyang abroad student tutoring Fluid Mechanics-tutor program Completion, Jun 20
 ---
 
 #### Teaching Experience
-**Teaching Assistant**
-ME231 Solid Mechanics (Prof. Seunghwa Ryu) (Feb. 2024 - Jun. 2025) KAIST
-ME231 Solid Mechanics (Prof. Taek-Soo Kim) (Feb. 2024 - Jun. 2024) KAIST
+
+- Teaching Assistant
+ME231 Solid Mechanics (Prof. Seunghwa Ryu), KAIST, Feb. 2024 - Jun. 2025
+ME231 Solid Mechanics (Prof. Taek-Soo Kim), KAIST, Feb. 2024 - Jun. 2024
+
+- Mentoring and Tutoring
+Fluid Mechanics Tutor, International Student Tutoring Program, Hanyang University, Mar. 2021 – Jun. 2021
+Thermodynamics Tutor, International Student Tutoring Program, Hanyang University, Jul. 2020 – Dec. 2020
+Mechanics of Materials Tutor, International Student Tutoring Program, Hanyang University, Jul. 2020 – Dec. 2020
+Dynamics Tutor, International Student Tutoring Program, Hanyang University, Apr. 2020 – Jun. 2020
+Math Tutor & Mentor, Samsung Dream Class, Jan. 2019
+
+---
+
+#### Leadership
+Laboratory Student Representative, Prof. Seunghwa Ryu’s Group, KAIST
+Led a team of 28 researchers (Ph.D. and M.S. students), Jan 2025 – Dec 2025
 
 ---
 
