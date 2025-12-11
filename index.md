@@ -67,7 +67,6 @@ Ministry of Science and ICT (administered by Korea Student Aid Foundation, KOSAF
 ---
 
 #### International Journal
-
  Songho Lee†, **Sukheon Kang†**, Jecheon Yu, and Seunghwa Ryu*, "Inverse design of temperature-responsive 4D active composites using reinforcement learning", Submitted.
 
  **Sukheon Kang**, Youngkwon Kim, Jinkyu Yang*, and Seunghwa Ryu*, "Physics-informed neural networks for programmable origami metamaterials with controlled deployment", Materials Horizons, 12, 10641-10655, 2025. [Link](https://pubs.rsc.org/en/content/articlelanding/2025/mh/d5mh01607j) [Cover](images/Paper_4_cover.jpg)
@@ -81,26 +80,26 @@ Ministry of Science and ICT (administered by Korea Student Aid Foundation, KOSAF
 ---
 
 #### International Conference
-2023, Junheui Jo, Songho Lee, Sukheon Kang and Seunghwa Ryu, "Investigation of Digital Light Printing process parameter based experimental data using simulation", ICD3DP 2023
+Junheui Jo, Songho Lee, **Sukheon Kang**, and Seunghwa Ryu, "Investigation of Digital Light Printing process parameter based experimental data using simulation", Proceedings of the 2nd International Conference on Design for 3D Printing (ICD3DP), Oct. 2023.
 
-2022, Jinwook Yeo, Sukheon Kang, Minwoo Park and Seunghwa Ryu, "Deep Learning-Based Optimization, 3D printing, and Testing of Adhesive Pillar Shape with Directionality", ENGE 2022
+Jinwook Yeo, **Sukheon Kang**, Minwoo Park, and Seunghwa Ryu, "Deep Learning-Based Optimization, 3D printing, and Testing of Adhesive Pillar Shape with Directionality", The 7th International Conference on Electronic Materials and Nanotechnology for Green Environment (ENGE), Nov. 2022.
 
 ---
 
 #### Domestic Conference
-2025, Sukheon Kang, Hyunggwi Song, Hyun Seok Kang, Byeong-Soo Bae, Seunghwa Ryu, "A Constrained Generative Approach for Designing Metamaterials with Targeted Strain-Dependent Poisson’s Ratio", 2025 Korea Society of Mechanical Engineers (KSME) CAE and Applied Mechanics Spring Conference
+**Sukheon Kang**, Hyunggwi Song, Hyun Seok Kang, Byeong-Soo Bae, and Seunghwa Ryu, "A Constrained Generative Approach for Designing Metamaterials with Targeted Strain-Dependent Poisson’s Ratio", Korea Society of Mechanical Engineers (KSME) CAE and Applied Mechanics Spring Conference, 2025.
 
-2024, Sukheon Kang, Hyunggwi Song, Hyun Seok Kang, Byeong-Soo Bae, Seunghwa Ryu, "Inverse Design of Soft Metamaterials for Tunable Poisson's Ratio Based on Strain Response", 2024 Korea Society of Mechanical Engineers (KSME) Headquarters Academic Conference Fall Conference
+**Sukheon Kang**, Hyunggwi Song, Hyun Seok Kang, Byeong-Soo Bae, and Seunghwa Ryu, "Inverse Design of Soft Metamaterials for Tunable Poisson's Ratio Based on Strain Response", Korea Society of Mechanical Engineers (KSME) Headquarters Academic Conference Fall Conference, 2024.
 
-2024, Sukheon Kang, Hyunbin Moon, Hyokyung Sung, Seunghwa Ryu, "Data-driven approaches to optimize metastructure design for superior efficiency and performance", 2024 Korea Society of Mechanical Engineers (KSME) CAE and Applied Mechanics Spring Conference
+**Sukheon Kang**, Hyunbin Moon, Hyokyung Sung, and Seunghwa Ryu, "Data-driven approaches to optimize metastructure design for superior efficiency and performance", Korea Society of Mechanical Engineers (KSME) CAE and Applied Mechanics Spring Conference, 2024.
 
-2023, Sukheon Kang, Seunghwa Ryu, "Data-driven Optimization for Improved Auxetic Metamaterial Designs", 2023 Korea Multisacle Mechanics Society (KMSM) Symposium
+**Sukheon Kang**, and Seunghwa Ryu, "Data-driven Optimization for Improved Auxetic Metamaterial Designs", Korea Multisacle Mechanics Society (KMSM) Symposium, 2023.
 
-2023, Sukheon Kang, Hyunbin Moon, Jinwook Yeo, Kundo Park, Jecheon Yu, Seunghwa Ryu, "Design of auxetic metamaterials for Improved low cycle fatigue life and Poisson's ratio using data-driven optimization", 2023 Korea Society of Mechanical Engineers (KSME) CAE and Applied Mechanics Spring Conference
+**Sukheon Kang**, Hyunbin Moon, Jinwook Yeo, Kundo Park, Jecheon Yu, and Seunghwa Ryu, "Design of auxetic metamaterials for Improved low cycle fatigue life and Poisson's ratio using data-driven optimization", Korea Society of Mechanical Engineers (KSME) CAE and Applied Mechanics Spring Conference, 2023.
 
-2023, Kundo Park, Junhyeong Lee, Sukheon Kang, Flavia Libonati, Seunghwa Ryu, "3 channel tensile test for a fast estimation of fatigue strength of composite laminates", 2023 Korea Society of Mechanical Engineers (KSME) Reliability Engineering Spring Conference
+Kundo Park, Junhyeong Lee, **Sukheon Kang**, Flavia Libonati, and Seunghwa Ryu, "3 channel tensile test for a fast estimation of fatigue strength of composite laminates", Korea Society of Mechanical Engineers (KSME) Reliability Engineering Spring Conference, 2023.
 
-2022, Kundo Park, Youngsoo Kim, Minki Kim, Chihyeon Song, Sukheon Kang, Jinkyoo Park, Seunghwa Ryu, "Designing staggered platelet composite structure with Gaussian process regression based Bayesian optimization", 2022 Korea Society of Mechanical Engineers (KSME) CAE and Applied Mechanics Spring Conference
+Kundo Park, Youngsoo Kim, Minki Kim, Chihyeon Song, **Sukheon Kang**, Jinkyoo Park, and Seunghwa Ryu, "Designing staggered platelet composite structure with Gaussian process regression based Bayesian optimization", Korea Society of Mechanical Engineers (KSME) CAE and Applied Mechanics Spring Conference, 2022.
 
 ---
 
