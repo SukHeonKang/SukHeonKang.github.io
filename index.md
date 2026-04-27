@@ -68,11 +68,11 @@ Ministry of Science and ICT (administered by Korea Student Aid Foundation, KOSAF
 
 #### International Journal
     
- Chanhee An, **Sukheon Kang**, Hyeonbin Moon, Wonjin Choi, Gyu-Han Lee, Hongmin Oh, Dong Hyun Yang, Seunghwa Ryu, Doosang Kim, Simon Song, Hyun Jin Kim\*, "Stress-to-Strength Ratio for Assessing Rupture Risk in Abdominal Aortic Aneurysms: A Computational Study", submitted.
+ Chanhee An, **Sukheon Kang**, Hyeonbin Moon, Wonjin Choi, Gyu-Han Lee, Hongmin Oh, Dong Hyun Yang, Seunghwa Ryu, Doosang Kim, Simon Song, and Hyun Jin Kim\*, "Stress-to-Strength Ratio for Assessing Rupture Risk in Abdominal Aortic Aneurysms: A Computational Study", submitted.
 
  **Sukheon Kang†**, Sukkyung Kang†, Sanha Kim\*, and Seunghwa Ryu\*, "Data-Free Physics-Informed Inverse Programming of Bistable Kirigami Energy Landscapes", submitted.
 
- Songho Lee†, **Sukheon Kang†**, Jecheon Yu, and Seunghwa Ryu\*, "Inverse design of temperature-responsive 4D active composites using reinforcement learning", Materials Horizons, accepted.
+ Songho Lee†, **Sukheon Kang†**, Jisoo Nam, Jecheon Yu, Miso Kim, and Seunghwa Ryu\*, "Inverse design of temperature-responsive 4D active composites using reinforcement learning", Materials Horizons, accepted.
 
  **Sukheon Kang**, Youngkwon Kim, Jinkyu Yang\*, and Seunghwa Ryu\*, "Physics-informed neural networks for programmable origami metamaterials with controlled deployment", Materials Horizons, 12, 10641-10655, 2025. [Link](https://pubs.rsc.org/en/content/articlelanding/2025/mh/d5mh01607j) [Cover](images/Paper_4_cover.jpg)
 
