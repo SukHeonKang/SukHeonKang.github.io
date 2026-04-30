@@ -94,6 +94,8 @@ Jinwook Yeo, **Sukheon Kang**, Minwoo Park, and Seunghwa Ryu, "Deep Learning-Bas
 ---
 
 #### Domestic Conference
+**Sukheon Kang**, Youngkwon Kim, Jinkyu Yang, and Seunghwa Ryu, "Physics-Informed Programming of Energy Landscapes in Mechanical Metamaterials", Korea Society of Mechanical Engineers (KSME) CAE and Applied Mechanics Spring Conference, 2026.
+
 **Sukheon Kang**, Hyunggwi Song, Hyun Seok Kang, Byeong-Soo Bae, and Seunghwa Ryu, "A Constrained Generative Approach for Designing Metamaterials with Targeted Strain-Dependent Poisson’s Ratio", Korea Society of Mechanical Engineers (KSME) CAE and Applied Mechanics Spring Conference, 2025.
 
 Songho Lee, **Sukheon Kang**, Jecheon Yu, Jihye Shin, and Seunghwa Ryu, "4D Thermal Active Composite Design using Reinforcement Learning", Korea Society of Mechanical Engineers (KSME) CAE and Applied Mechanics Spring Conference, 2025.
