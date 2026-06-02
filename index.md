@@ -72,7 +72,7 @@ Ministry of Science and ICT (administered by Korea Student Aid Foundation, KOSAF
 
  **Sukheon Kang†**, Sukkyung Kang†, Sanha Kim\*, and Seunghwa Ryu\*, "Data-Free Physics-Informed Inverse Programming of Bistable Kirigami Energy Landscapes", submitted.
 
- Songho Lee†, **Sukheon Kang†**, Jisoo Nam, Jecheon Yu, Miso Kim, and Seunghwa Ryu\*, "Inverse design of temperature-responsive 4D active composites using reinforcement learning", Materials Horizons, accepted.
+ Songho Lee†, **Sukheon Kang†**, Jisoo Nam, Jecheon Yu, Miso Kim, and Seunghwa Ryu\*, "Inverse design of thermally active composite via policy-transferred reinforcement learning", Materials Horizons, accepted.
 
  **Sukheon Kang**, Youngkwon Kim, Jinkyu Yang\*, and Seunghwa Ryu\*, "Physics-informed neural networks for programmable origami metamaterials with controlled deployment", Materials Horizons, 12, 10641-10655, 2025. [Link](https://pubs.rsc.org/en/content/articlelanding/2025/mh/d5mh01607j) [Cover](images/Paper_4_cover.jpg)
 
@@ -121,6 +121,7 @@ Kundo Park, Youngsoo Kim, Minki Kim, Chihyeon Song, **Sukheon Kang**, Jinkyoo Pa
 #### Teaching Experience
 
 Teaching Assistant
+- ME231 Solid Mechanics (Prof. Seunghwa Ryu), KAIST, Feb. 2025 - Jun. 2026
 - ME231 Solid Mechanics (Prof. Seunghwa Ryu), KAIST, Feb. 2025 - Jun. 2025
 - ME231 Solid Mechanics (Prof. Taek-Soo Kim), KAIST, Feb. 2024 - Jun. 2024
 
@@ -136,6 +137,10 @@ Mentoring and Tutoring
 #### Leadership
 Laboratory Student Representative, Prof. Seunghwa Ryu’s Group, KAIST
 Led a team of 28 researchers (Ph.D. and M.S. students), Jan 2025 – Dec 2025
+
+Department Representative, Tsinghua–KAIST Joint Workshop on AI-Driven Mechanical Engineering Education & Research Frontiers, Tsinghua University, Beijing, China, May 2026. [Link1](https://me.tsinghua.edu.cn/en/info/1002/2203.htm) [Link2](https://me.kaist.ac.kr/news/news_020100.html?bmain=view&uid=1176)
+
+<img class="contain" src="images/KAIST-Tsinghua-v2.jpg"/>
 
 ---
 
