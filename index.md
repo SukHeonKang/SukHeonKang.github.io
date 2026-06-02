@@ -121,7 +121,7 @@ Kundo Park, Youngsoo Kim, Minki Kim, Chihyeon Song, **Sukheon Kang**, Jinkyoo Pa
 #### Teaching Experience
 
 Teaching Assistant
-- ME231 Solid Mechanics (Prof. Seunghwa Ryu), KAIST, Feb. 2025 - Jun. 2026
+- ME231 Solid Mechanics (Prof. Seunghwa Ryu), KAIST, Feb. 2026 - Jun. 2026
 - ME231 Solid Mechanics (Prof. Seunghwa Ryu), KAIST, Feb. 2025 - Jun. 2025
 - ME231 Solid Mechanics (Prof. Taek-Soo Kim), KAIST, Feb. 2024 - Jun. 2024
 
