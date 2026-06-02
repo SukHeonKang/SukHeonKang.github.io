@@ -138,7 +138,7 @@ Mentoring and Tutoring
 Laboratory Student Representative, Prof. Seunghwa Ryu’s Group, KAIST
 Led a team of 28 researchers (Ph.D. and M.S. students), Jan 2025 – Dec 2025
 
-Department Representative, Tsinghua–KAIST Joint Workshop on AI-Driven Mechanical Engineering Education & Research Frontiers, Tsinghua University, Beijing, China, May 2026. [Link1](https://me.tsinghua.edu.cn/en/info/1002/2203.htm) [Link2](https://me.kaist.ac.kr/news/news_020100.html?bmain=view&uid=1176)
+Department Student Representative, Tsinghua–KAIST Joint Workshop on AI-Driven Mechanical Engineering Education & Research Frontiers, Tsinghua University, Beijing, China, May 2026. [Link1](https://me.tsinghua.edu.cn/en/info/1002/2203.htm) [Link2](https://me.kaist.ac.kr/news/news_020100.html?bmain=view&uid=1176)
 
 <img class="contain" src="images/KAIST-Tsinghua-v2.jpg"/>
 
