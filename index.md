@@ -70,9 +70,9 @@ Ministry of Science and ICT (administered by Korea Student Aid Foundation, KOSAF
     
  Chanhee An, **Sukheon Kang**, Hyeonbin Moon, Wonjin Choi, Gyu-Han Lee, Hongmin Oh, Dong Hyun Yang, Seunghwa Ryu, Doosang Kim, Simon Song, and Hyun Jin Kim\*, "Stress-to-Strength Ratio for Assessing Rupture Risk in Abdominal Aortic Aneurysms: A Computational Study", submitted.
 
- **Sukheon Kang†**, Sukkyung Kang†, Sanha Kim\*, and Seunghwa Ryu\*, "Data-Free Physics-Informed Inverse Programming of Bistable Kirigami Energy Landscapes", submitted.
+ **Sukheon Kang**, Sukkyung Kang, Sanha Kim\*, and Seunghwa Ryu\*, "Data-Free Physics-Informed Inverse Programming of Bistable Kirigami Energy Landscapes", Materials Horizons, accepted.
 
- Songho Lee†, **Sukheon Kang†**, Jisoo Nam, Jecheon Yu, Miso Kim, and Seunghwa Ryu\*, "Inverse design of thermally active composite via policy-transferred reinforcement learning", Materials Horizons, accepted.
+ Songho Lee†, **Sukheon Kang†**, Jisoo Nam, Jecheon Yu, Miso Kim, and Seunghwa Ryu\*, "Inverse design of thermally active composite via policy-transferred reinforcement learning", Materials Horizons, 13, 6500-6516, 2026. [Link](https://doi.org/10.1039/d6mh00239k)
 
  **Sukheon Kang**, Youngkwon Kim, Jinkyu Yang\*, and Seunghwa Ryu\*, "Physics-informed neural networks for programmable origami metamaterials with controlled deployment", Materials Horizons, 12, 10641-10655, 2025. [Link](https://pubs.rsc.org/en/content/articlelanding/2025/mh/d5mh01607j) [Cover](images/Paper_4_cover.jpg)
 
@@ -85,6 +85,9 @@ Ministry of Science and ICT (administered by Korea Student Aid Foundation, KOSAF
 ---
 
 #### International Conference
+**Sukheon Kang**, Youngkwon Kim, Jinkyu Yang, and Seunghwa Ryu "Physics-Informed Inverse Design of Multistable Origami with
+Programmable Energy Barriers", 17th World Congress on Computational Mechanics (WCCM) & 10th European Congress on Computational Methods in Applied Sciences and Engineering (ECCOMAS), 2026.
+
 Chanhee An, Wonjin Choi, **Sukheon Kang**, Seunghwa Ryu, Hyun Jin Kim et al., "Incremental Value of CFD: RIsk Prediction of Abdominal Aortic Aneurysm using Fluid-Solid Interaction", The 18th Congress of Asian Society of Cardiovascular Imaging, 2025.
 
 Junheui Jo, Songho Lee, **Sukheon Kang**, and Seunghwa Ryu, "Investigation of Digital Light Printing process parameter based experimental data using simulation", Proceedings of the 2nd International Conference on Design for 3D Printing (ICD3DP), Oct. 2023.
