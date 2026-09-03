@@ -145,7 +145,7 @@ Department Student Representative, Tsinghua–KAIST Joint Workshop on AI-Driven 
 
 <img class="contain" src="images/KAIST-Tsinghua-v2.jpg"/>
 
-Department Student Representative, Zhejiang–KAIST Joint Workshop on AI-Driven Mechanical Engineering Education & Research Frontiers, KAIST, Daejeon, Korea, Aug 2026.
+Department Student Representative, Zhejiang–KAIST Joint Workshop on AI-Driven Mechanical Engineering Education & Research Frontiers, KAIST, Daejeon, Korea, Aug 2026. [Link1](https://me.kaist.ac.kr/news/news_020100.html?bmain=view&uid=1213)
 
 ---
 
