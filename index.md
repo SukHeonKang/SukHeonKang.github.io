@@ -2,6 +2,7 @@
 
 <img class="contain" src="images/Cover_Art_1.jpg"/>
 <img class="contain" src="images/Cover_Art_2.jpg"/>
+<img class="contain" src="images/Cover_Art_3.jpg"/>
 
 ---
 
@@ -70,17 +71,17 @@ Ministry of Science and ICT (administered by Korea Student Aid Foundation, KOSAF
     
  Chanhee An, **Sukheon Kang**, Hyeonbin Moon, Wonjin Choi, Gyu-Han Lee, Hongmin Oh, Dong Hyun Yang, Seunghwa Ryu, Doosang Kim, Simon Song, and Hyun Jin Kim\*, "Stress-to-Strength Ratio for Assessing Rupture Risk in Abdominal Aortic Aneurysms: A Computational Study", submitted.
 
- **Sukheon Kang**, Sukkyung Kang, Sanha Kim\*, and Seunghwa Ryu\*, "Data-Free Physics-Informed Inverse Programming of Bistable Kirigami Energy Landscapes", Materials Horizons, accepted.
+ **Sukheon Kang**, Sukkyung Kang, Sanha Kim\*, and Seunghwa Ryu\*, "Data-Free Physics-Informed Inverse Programming of Bistable Kirigami Energy Landscapes", Materials Horizons, 13, 9028-9041, 2026. [Link to paper](https://doi.org/10.1039/d6mh00630b) [Cover image](paper_5_cover_pdf.pdf) [News](https://me.kaist.ac.kr/eng/news/news_020100.html?bmain=view&uid=817)
 
- Songho Lee†, **Sukheon Kang†**, Jisoo Nam, Jecheon Yu, Miso Kim, and Seunghwa Ryu\*, "Inverse design of thermally active composite via policy-transferred reinforcement learning", Materials Horizons, 13, 6500-6516, 2026. [Link](https://doi.org/10.1039/d6mh00239k)
+ Songho Lee†, **Sukheon Kang†**, Jisoo Nam, Jecheon Yu, Miso Kim, and Seunghwa Ryu\*, "Inverse design of thermally active composite via policy-transferred reinforcement learning", Materials Horizons, 13, 6500-6516, 2026. [Link to paper](https://doi.org/10.1039/d6mh00239k)
 
- **Sukheon Kang**, Youngkwon Kim, Jinkyu Yang\*, and Seunghwa Ryu\*, "Physics-informed neural networks for programmable origami metamaterials with controlled deployment", Materials Horizons, 12, 10641-10655, 2025. [Link](https://pubs.rsc.org/en/content/articlelanding/2025/mh/d5mh01607j) [Cover](images/Paper_4_cover.jpg)
+ **Sukheon Kang**, Youngkwon Kim, Jinkyu Yang\*, and Seunghwa Ryu\*, "Physics-informed neural networks for programmable origami metamaterials with controlled deployment", Materials Horizons, 12, 10641-10655, 2025. [Link to paper](https://pubs.rsc.org/en/content/articlelanding/2025/mh/d5mh01607j) [Cover image](images/Paper_4_cover.jpg) [News](https://me.kaist.ac.kr/eng/news/news_020100.html?bmain=view&uid=705)
 
- **Sukheon Kang**, Hyeonbin Moon, Seonho Shin, Mahmoud Mousavi, Hyokyung Sung\*, and Seunghwa Ryu\*, "Design of Auxetic Metamaterial for Enhanced Low Cycle Fatigue Life and Negative Poisson's ratio through Multi-objective Bayesian Optimization", Materials & Design, 252, 113798, 2025. [Link](https://doi.org/10.1016/j.matdes.2025.113798) [Cover](images/Paper_3_cover.png)
+ **Sukheon Kang**, Hyeonbin Moon, Seonho Shin, Mahmoud Mousavi, Hyokyung Sung\*, and Seunghwa Ryu\*, "Design of Auxetic Metamaterial for Enhanced Low Cycle Fatigue Life and Negative Poisson's ratio through Multi-objective Bayesian Optimization", Materials & Design, 252, 113798, 2025. [Link to paper](https://doi.org/10.1016/j.matdes.2025.113798) [Cover image](images/Paper_3_cover.png) [News](https://me.kaist.ac.kr/eng/news/news_020100.html?bmain=view&uid=620)
 
- **Sukheon Kang†**, Hyunggwi Song†, Hyun Seok Kang, Byeong-Soo Bae, and Seunghwa Ryu\*, "Customizable Metamaterial Design for Desired Strain-Dependent Poisson's Ratio Using Constrained Generative Inverse Design Network", Materials & Design, 247, 113377, 2024. [Link](https://doi.org/10.1016/j.matdes.2024.113377)
+ **Sukheon Kang†**, Hyunggwi Song†, Hyun Seok Kang, Byeong-Soo Bae, and Seunghwa Ryu\*, "Customizable Metamaterial Design for Desired Strain-Dependent Poisson's Ratio Using Constrained Generative Inverse Design Network", Materials & Design, 247, 113377, 2024. [Link to paper](https://doi.org/10.1016/j.matdes.2024.113377)
 
- Junheui Jo†, Minwoo Park†, **Sukheon Kang†**, Hugon Lee†, Chang-Yeon Gu, Taek-Soo Kim, and Seunghwa Ryu\* "Data-driven prediction of strain fields in auxetic structures and non-contact validation with Mechanoluminescence for structural health monitoring", International Journal of AI for Materials and Design, 1(2), 48-60, 2024. [Link](https://doi.org/10.36922/ijamd.3539) [Cover](images/Paper_1_cover.jpg)
+ Junheui Jo†, Minwoo Park†, **Sukheon Kang†**, Hugon Lee†, Chang-Yeon Gu, Taek-Soo Kim, and Seunghwa Ryu\* "Data-driven prediction of strain fields in auxetic structures and non-contact validation with Mechanoluminescence for structural health monitoring", International Journal of AI for Materials and Design, 1(2), 48-60, 2024. [Link to paper](https://doi.org/10.36922/ijamd.3539) [Cover image](images/Paper_1_cover.jpg) [award](images/IJAMD-award.pdf)
 
 ---
 
@@ -141,11 +142,11 @@ Mentoring and Tutoring
 Laboratory Student Representative, Prof. Seunghwa Ryu’s Group, KAIST
 Led a team of 28 researchers (Ph.D. and M.S. students), Jan 2025 – Dec 2025
 
-Department Student Representative, Tsinghua–KAIST Joint Workshop on AI-Driven Mechanical Engineering Education & Research Frontiers, Tsinghua University, Beijing, China, May 2026. [Link1](https://me.tsinghua.edu.cn/en/info/1002/2203.htm) [Link2](https://me.kaist.ac.kr/news/news_020100.html?bmain=view&uid=1176)
+Department Student Representative, Tsinghua–KAIST Joint Workshop on AI-Driven Mechanical Engineering Education & Research Frontiers, Tsinghua University, Beijing, China, May 2026. [Link1](https://me.tsinghua.edu.cn/en/info/1002/2203.htm) [Link2](https://me.kaist.ac.kr/eng/news/news_020100.html?bmain=view&uid=781) 
 
 <img class="contain" src="images/KAIST-Tsinghua-v2.jpg"/>
 
-Department Student Representative, Zhejiang–KAIST Joint Workshop on AI-Driven Mechanical Engineering Education & Research Frontiers, KAIST, Daejeon, Korea, Aug 2026. [Link1](https://me.kaist.ac.kr/news/news_020100.html?bmain=view&uid=1213)
+Department Student Representative, Zhejiang–KAIST Joint Workshop on AI-Driven Mechanical Engineering Education & Research Frontiers, KAIST, Daejeon, Korea, Aug 2026. [Link1](https://me.kaist.ac.kr/eng/news/news_020100.html?bmain=view&uid=809)
 
 ---
 
