@@ -71,7 +71,7 @@ Ministry of Science and ICT (administered by Korea Student Aid Foundation, KOSAF
     
  Chanhee An, **Sukheon Kang**, Hyeonbin Moon, Wonjin Choi, Gyu-Han Lee, Hongmin Oh, Dong Hyun Yang, Seunghwa Ryu, Doosang Kim, Simon Song, and Hyun Jin Kim\*, "Stress-to-Strength Ratio for Assessing Rupture Risk in Abdominal Aortic Aneurysms: A Computational Study", submitted.
 
- **Sukheon Kang**, Sukkyung Kang, Sanha Kim\*, and Seunghwa Ryu\*, "Data-Free Physics-Informed Inverse Programming of Bistable Kirigami Energy Landscapes", Materials Horizons, 13, 9028-9041, 2026. [[Link to paper]](https://doi.org/10.1039/d6mh00630b) [[Cover image]](images/paper_5_cover_pdf.pdf) [[News]](https://me.kaist.ac.kr/eng/news/news_020100.html?bmain=view&uid=817)
+ **Sukheon Kang**, Sukkyung Kang, Sanha Kim\*, and Seunghwa Ryu\*, "Data-Free Physics-Informed Inverse Programming of Bistable Kirigami Energy Landscapes", Materials Horizons, 13, 9028-9041, 2026. [[Link to paper]](https://doi.org/10.1039/d6mh00630b) [[Cover image]](images/Paper_5_cover.pdf) [[News]](https://me.kaist.ac.kr/eng/news/news_020100.html?bmain=view&uid=817)
 
  Songho Lee†, **Sukheon Kang†**, Jisoo Nam, Jecheon Yu, Miso Kim, and Seunghwa Ryu\*, "Inverse design of thermally active composite via policy-transferred reinforcement learning", Materials Horizons, 13, 6500-6516, 2026. [[Link to paper]](https://doi.org/10.1039/d6mh00239k)
 
