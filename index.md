@@ -51,6 +51,10 @@ HANYANG University, B.S., [Mechanical Engineering](http://me.hanyang.ac.kr/), Ma
 ---
 
 #### Honors and Awards
+Best Paper Award, Computational Structural Engineering Institute of Korea (COSEIK), Nov. 2026
+
+Highly Downloaded Paper Award 2024, International Journal of AI for Materials and Design (IJAMD), AccScience Publishing
+
 Summa Cum Laude, Hanyang University, Feb. 2022
 
 Hanyang Academic Excellence Award, Hanyang University, Oct. 2021 
@@ -83,15 +87,15 @@ Ministry of Science and ICT (administered by Korea Student Aid Foundation, KOSAF
 
  **Sukheon Kang†**, Hyunggwi Song†, Hyun Seok Kang, Byeong-Soo Bae, and Seunghwa Ryu\*, "Customizable Metamaterial Design for Desired Strain-Dependent Poisson's Ratio Using Constrained Generative Inverse Design Network", Materials & Design, 247, 113377, 2024. [[Link to paper]](https://doi.org/10.1016/j.matdes.2024.113377)
 
- Junheui Jo†, Minwoo Park†, **Sukheon Kang†**, Hugon Lee†, Chang-Yeon Gu, Taek-Soo Kim, and Seunghwa Ryu\* "Data-driven prediction of strain fields in auxetic structures and non-contact validation with Mechanoluminescence for structural health monitoring", International Journal of AI for Materials and Design, 1(2), 48-60, 2024. [[Link to paper]](https://doi.org/10.36922/ijamd.3539) [[Cover image]](images/Paper_1_cover.jpg) [[award]](images/IJAMD-award.pdf)
+ Junheui Jo†, Minwoo Park†, **Sukheon Kang†**, Hugon Lee†, Chang-Yeon Gu, Taek-Soo Kim, and Seunghwa Ryu\*, "Data-driven prediction of strain fields in auxetic structures and non-contact validation with Mechanoluminescence for structural health monitoring", International Journal of AI for Materials and Design, 1(2), 48-60, 2024. [[Link to paper]](https://doi.org/10.36922/ijamd.3539) [[Cover image]](images/Paper_1_cover.jpg) [[award]](images/IJAMD-award.pdf)
 
 ---
 
 #### International Conference
-**Sukheon Kang**, Youngkwon Kim, Jinkyu Yang, and Seunghwa Ryu "Physics-Informed Inverse Design of Multistable Origami with
+**Sukheon Kang**, Youngkwon Kim, Jinkyu Yang, and Seunghwa Ryu, "Physics-Informed Inverse Design of Multistable Origami with
 Programmable Energy Barriers", 17th World Congress on Computational Mechanics (WCCM) & 10th European Congress on Computational Methods in Applied Sciences and Engineering (ECCOMAS), 2026.
 
-Chanhee An, Wonjin Choi, **Sukheon Kang**, Seunghwa Ryu, Hyun Jin Kim et al., "Incremental Value of CFD: RIsk Prediction of Abdominal Aortic Aneurysm using Fluid-Solid Interaction", The 18th Congress of Asian Society of Cardiovascular Imaging, 2025.
+Chanhee An, Wonjin Choi, **Sukheon Kang**, Seunghwa Ryu, Hyun Jin Kim et al., "Incremental Value of CFD: Risk Prediction of Abdominal Aortic Aneurysm using Fluid-Solid Interaction", The 18th Congress of Asian Society of Cardiovascular Imaging, 2025.
 
 Junheui Jo, Songho Lee, **Sukheon Kang**, and Seunghwa Ryu, "Investigation of Digital Light Printing process parameter based experimental data using simulation", Proceedings of the 2nd International Conference on Design for 3D Printing (ICD3DP), Oct. 2023.
 
@@ -102,27 +106,27 @@ Jinwook Yeo, **Sukheon Kang**, Minwoo Park, and Seunghwa Ryu, "Deep Learning-Bas
 #### Domestic Conference
 **Sukheon Kang**, Sukkyung Kang, Sanha Kim, and Seunghwa Ryu, "Physics-Informed Neural Network-Based Energy Landscape Prediction and Inverse Design of Bistable Kirigami Metamaterials", Computational Structural Engineering Institute of Korea (COSEIK) Annual Conference, 2026. [[award]](images/COSEIK_award.pdf)
 
-**Sukheon Kang**, Youngkwon Kim, Jinkyu Yang, and Seunghwa Ryu, "Physics-Informed Programming of Energy Landscapes in Mechanical Metamaterials", Korea Society of Mechanical Engineers (KSME) CAE and Applied Mechanics Spring Conference, 2026.
+**Sukheon Kang**, Youngkwon Kim, Jinkyu Yang, and Seunghwa Ryu, "Physics-Informed Programming of Energy Landscapes in Mechanical Metamaterials", Korean Society of Mechanical Engineers (KSME) CAE and Applied Mechanics Spring Conference, 2026.
 
-**Sukheon Kang**, Hyunggwi Song, Hyun Seok Kang, Byeong-Soo Bae, and Seunghwa Ryu, "A Constrained Generative Approach for Designing Metamaterials with Targeted Strain-Dependent Poisson’s Ratio", Korea Society of Mechanical Engineers (KSME) CAE and Applied Mechanics Spring Conference, 2025.
+**Sukheon Kang**, Hyunggwi Song, Hyun Seok Kang, Byeong-Soo Bae, and Seunghwa Ryu, "A Constrained Generative Approach for Designing Metamaterials with Targeted Strain-Dependent Poisson’s Ratio", Korean Society of Mechanical Engineers (KSME) CAE and Applied Mechanics Spring Conference, 2025.
 
-Songho Lee, **Sukheon Kang**, Jecheon Yu, Jihye Shin, and Seunghwa Ryu, "4D Thermal Active Composite Design using Reinforcement Learning", Korea Society of Mechanical Engineers (KSME) CAE and Applied Mechanics Spring Conference, 2025.
+Songho Lee, **Sukheon Kang**, Jecheon Yu, Jihye Shin, and Seunghwa Ryu, "4D Thermal Active Composite Design using Reinforcement Learning", Korean Society of Mechanical Engineers (KSME) CAE and Applied Mechanics Spring Conference, 2025.
 
 Chanhee An, Wonjin Choi, **Sukheon Kang**, Seunghwa Ryu, Hyun Jin Kim et al., "Rupture risk assessment of abdominal aortic aneurysms using biomechanical, geometric, and physiological conditions", 2025 Fall Conference of The Korean Society of Visualization (KSV), 2025
 
 Chanhee An, Wonjin Choi, **Sukheon Kang**, Seunghwa Ryu, Hyun Jin Kim et al., "Rupture risk identification of abdominal aortic aneurysms using hemodynamic and biomechanical parameters", Biomedical Engineering Society for Circulation Organization(BESCO), 2025.
 
-**Sukheon Kang**, Hyunggwi Song, Hyun Seok Kang, Byeong-Soo Bae, and Seunghwa Ryu, "Inverse Design of Soft Metamaterials for Tunable Poisson's Ratio Based on Strain Response", Korea Society of Mechanical Engineers (KSME) Headquarters Academic Conference Fall Conference, 2024.
+**Sukheon Kang**, Hyunggwi Song, Hyun Seok Kang, Byeong-Soo Bae, and Seunghwa Ryu, "Inverse Design of Soft Metamaterials for Tunable Poisson's Ratio Based on Strain Response", Korean Society of Mechanical Engineers (KSME) Headquarters Academic Conference Fall Conference, 2024.
 
-**Sukheon Kang**, Hyunbin Moon, Hyokyung Sung, and Seunghwa Ryu, "Data-driven approaches to optimize metastructure design for superior efficiency and performance", Korea Society of Mechanical Engineers (KSME) CAE and Applied Mechanics Spring Conference, 2024.
+**Sukheon Kang**, Hyeonbin Moon, Hyokyung Sung, and Seunghwa Ryu, "Data-driven approaches to optimize metastructure design for superior efficiency and performance", Korean Society of Mechanical Engineers (KSME) CAE and Applied Mechanics Spring Conference, 2024.
 
-**Sukheon Kang**, and Seunghwa Ryu, "Data-driven Optimization for Improved Auxetic Metamaterial Designs", Korea Multisacle Mechanics Society (KMSM) Symposium, 2023.
+**Sukheon Kang**, and Seunghwa Ryu, "Data-driven Optimization for Improved Auxetic Metamaterial Designs", Korean Multiscale Mechanics Society (KMSM) Symposium, 2023.
 
-**Sukheon Kang**, Hyunbin Moon, Jinwook Yeo, Kundo Park, Jecheon Yu, and Seunghwa Ryu, "Design of auxetic metamaterials for Improved low cycle fatigue life and Poisson's ratio using data-driven optimization", Korea Society of Mechanical Engineers (KSME) CAE and Applied Mechanics Spring Conference, 2023.
+**Sukheon Kang**, Hyeonbin Moon, Jinwook Yeo, Kundo Park, Jecheon Yu, and Seunghwa Ryu, "Design of auxetic metamaterials for Improved low cycle fatigue life and Poisson's ratio using data-driven optimization", Korean Society of Mechanical Engineers (KSME) CAE and Applied Mechanics Spring Conference, 2023.
 
-Kundo Park, Junhyeong Lee, **Sukheon Kang**, Flavia Libonati, and Seunghwa Ryu, "3 channel tensile test for a fast estimation of fatigue strength of composite laminates", Korea Society of Mechanical Engineers (KSME) Reliability Engineering Spring Conference, 2023.
+Kundo Park, Junhyeong Lee, **Sukheon Kang**, Flavia Libonati, and Seunghwa Ryu, "3 channel tensile test for a fast estimation of fatigue strength of composite laminates", Korean Society of Mechanical Engineers (KSME) Reliability Engineering Spring Conference, 2023.
 
-Kundo Park, Youngsoo Kim, Minki Kim, Chihyeon Song, **Sukheon Kang**, Jinkyoo Park, and Seunghwa Ryu, "Designing staggered platelet composite structure with Gaussian process regression based Bayesian optimization", Korea Society of Mechanical Engineers (KSME) CAE and Applied Mechanics Spring Conference, 2022.
+Kundo Park, Youngsoo Kim, Minki Kim, Chihyeon Song, **Sukheon Kang**, Jinkyoo Park, and Seunghwa Ryu, "Designing staggered platelet composite structure with Gaussian process regression based Bayesian optimization", Korean Society of Mechanical Engineers (KSME) CAE and Applied Mechanics Spring Conference, 2022.
 
 ---
 
