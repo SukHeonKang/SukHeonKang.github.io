@@ -100,6 +100,8 @@ Jinwook Yeo, **Sukheon Kang**, Minwoo Park, and Seunghwa Ryu, "Deep Learning-Bas
 ---
 
 #### Domestic Conference
+**Sukheon Kang**, Sukkyung Kang, Sanha Kim, and Seunghwa Ryu, "Physics-Informed Neural Network-Based Energy Landscape Prediction and Inverse Design of Bistable Kirigami Metamaterials", Computational Structural Engineering Institute of Korea (COSEIK) Annual Conference, 2026. [[award]](images/COSEIK_award.pdf)
+
 **Sukheon Kang**, Youngkwon Kim, Jinkyu Yang, and Seunghwa Ryu, "Physics-Informed Programming of Energy Landscapes in Mechanical Metamaterials", Korea Society of Mechanical Engineers (KSME) CAE and Applied Mechanics Spring Conference, 2026.
 
 **Sukheon Kang**, Hyunggwi Song, Hyun Seok Kang, Byeong-Soo Bae, and Seunghwa Ryu, "A Constrained Generative Approach for Designing Metamaterials with Targeted Strain-Dependent Poisson’s Ratio", Korea Society of Mechanical Engineers (KSME) CAE and Applied Mechanics Spring Conference, 2025.
